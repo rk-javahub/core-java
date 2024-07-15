@@ -13,10 +13,10 @@ public class IdentifierDemo {
 
 		/* No symbols other than $ and _ allowed */
 		String $ = "abc";
-		String _ = "abc"; // Warning:'_' should not be used as an identifier,
+		//String _ = "abc"; // Warning:'_' should not be used as an identifier,
 							// since it is a reserved keyword from source level
 							// 1.8 on
-		System.out.println(_);
+		//System.out.println(_);
 
 		/* Reserved words are not allowed as identifier */
 		// int if=10;
