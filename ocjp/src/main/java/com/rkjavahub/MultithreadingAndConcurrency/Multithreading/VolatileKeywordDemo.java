@@ -4,7 +4,7 @@ import static com.rkjavahub.MultithreadingAndConcurrency.Multithreading.Volatile
 
 class VolatileDemo{
 
-
+// Yet to complete
 
 }
 
@@ -16,12 +16,17 @@ public class VolatileKeywordDemo extends Thread {
         Thread thread1 = new Thread(demo1);
         Thread thread2 = new Thread(demo2);
 
-        public void run() {
 
-        }
 
 
         thread1.start();
         thread2.start();
+
+     /*   public void run() {
+            for (int i = 0; i < 1000; i++) {
+                flag = true;
+                System.out.println("Child Thread");
+            }
+        }*/
     }
 }

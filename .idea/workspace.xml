@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/JoinMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/JoinMethodDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/VolatileKeywordDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/VolatileKeywordDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
