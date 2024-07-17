@@ -4,7 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="" />
+    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/AbstractClassDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/AbstractClassDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/Final_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/Final_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/InterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/InterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/ModifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/ModifierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/Static_Import_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/Static_Import_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/Static_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/Static_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/sysoutDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/sysoutDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/variables_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/variables_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/DeclarationAndAccessModifier/Demo/volatile_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/declaration_and_access_modifier/volatile_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/ExceptionHandling/com/exceptionhandling/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/exception_handling/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/ExceptionHandling/com/exceptionhandling/demo/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/exception_handling/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/ExceptionHandling/com/exceptionhandling/demo/throwTestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/exception_handling/throwTestCase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/ExceptionHandling/com/exceptionhandling/demo/throwTestCase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/exception_handling/throwTestCase2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/ExceptionHandling/com/exceptionhandling/demo/throwTestCase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/exception_handling/throwTestCase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/Switch_Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/Switch_Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/break_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/break_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/do_while_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/do_while_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/for_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/for_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/foreach_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/foreach_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/if_else_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/if_else_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/FlowControl/Demo/while_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/flow_control/while_demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/GarbageCollection/com/gb/demo/FinalizeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/garbage_collection/FinalizeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/GarbageCollection/com/gb/demo/TestGarbageCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/garbage_collection/TestGarbageCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Generics/com/generics/demo/ArrayList_Type_String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Generics/com/generics/demo/TypeParameterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/IO/com/io/demo/FileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/io/FileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/IO/com/io/demo/FileInputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/io/FileInputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/IO/com/io/demo/FileInputStreamStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/io/FileInputStreamStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/IO/com/io/demo/FileOutputStreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/io/FileOutputStreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/IO/com/io/demo/FileOutputStreamStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/io/FileOutputStreamStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/InnerClasses/com/ic/demo/LocalInner1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/inner_class/LocalInner1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/InnerClasses/com/ic/demo/TestAnonymousInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/inner_class/TestAnonymousInner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/InnerClasses/com/ic/demo/TestMemberOuter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/inner_class/TestMemberOuter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Internalization/com/internalization/demo/LocaleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/internalization/LocaleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Lang package/com/java/lang/demo/CustomImmutableClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/lang_package/demo/CustomImmutableClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Lang package/com/java/lang/demo/StringDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/lang_package/demo/StringDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Lang package/com/java/lang/demo/equalsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/lang_package/demo/equalsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Lang package/com/java/lang/demo/toStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/lang_package/demo/toStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Lang package/com/java/lang/wrapperclasses/demo/EqualityCheckInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/lang_package/wrapperclasses/demo/EqualityCheckInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/BooleanDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/BooleanDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/CharDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/CharDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/FloatingDatatypesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/FloatingDatatypesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/IdentifierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/IdentifierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/IntegerLiteralDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/IntegerLiteralDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/LanguageFundamental/com/lf/demo/IntegralDatatypesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/language_fundamental/IntegralDatatypesDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/CallableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/DaemonThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DaemonThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/DaemonThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DaemonThreadTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/DeadlocDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DeadlocDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/DeadlocDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DeadlocDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/InheritableThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/InheritableThreadLocalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/InterruptingThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/InterruptingThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/JoinMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/JoinMethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/JoiningMainThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/JoiningMainThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/MultithreadingEnhancedTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/MultithreadingEnhancedTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/MultithreadingEnhancedTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ProducerConsumerProblemTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerProblemTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ProducerConsumerProblemTestBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerProblemTestBlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ProducerConsumerWithWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerWithWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/RaceConditionTicketBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/RaceConditionTicketBookingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/SynchronizationBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizationBlockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/SynchronizationTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizationTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/SynchronizedTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizedTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/TestWaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/TestWaitNotifyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadByRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadByRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadDemoJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadDemoJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadLocal1Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadLocal1Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadLocalDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadName.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadPriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadPriorityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/VolatileKeywordDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/VolatileKeywordDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/YieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/YieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/MultithreadingEnhanced/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/MultithreadingEnhanced/CyclicBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/CyclicBarrierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/MultithreadingEnhanced/ThreadGroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/ThreadGroupDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/MultithreadingEnhanced/ThreadGroupDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/ThreadGroupDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OOPs/com/oops/inheritance/demo/InheritanceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/oops/inheritance/demo/InheritanceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OOPs/com/oops/overloading/demo/OverloadingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/oops/overloading/demo/OverloadingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OOPs/com/oops/overriding/demo/OverrdingScopeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/oops/overriding/demo/OverrdingScopeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OOPs/com/oops/overriding/demo/OverridingAndOverloadingAtsametimeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/oops/overriding/demo/OverridingAndOverloadingAtsametimeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/ArithmeticOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/BitwiseOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/BitwiseOperatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/EqualityOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/EqualityOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/IncrementAndDecrementOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/IncrementAndDecrementOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/InstanceOfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/InstanceOfDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/InstanceOfOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/InstanceOfOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/RelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/RelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/OperatorAndAssignment/Demo/StringconcatinationOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/operator_assignment/StringconcatinationOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Serialization/com/serialization/demo/CustomSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/CustomSerialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Serialization/com/serialization/demo/ExternalizationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/ExternalizationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Serialization/com/serialization/demo/SerializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/SerializationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Serialization/com/serialization/demo/SingletonDeserialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/SingletonDeserialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Util Package/com/java/util/demo/BitSetDemo_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/utilpackage/BitSetDemo_1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +151,11 @@
   </component>
   <component name="RunManager" selected="Application.ProducerConsumerProblemTest1">
     <configuration name="JoinMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.JoinMethodDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.Multithreading.JoinMethodDemo" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,11 +164,11 @@
       </method>
     </configuration>
     <configuration name="MultithreadingEnhancedTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.MultithreadingEnhancedTest1" />
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.Multithreading.MultithreadingEnhancedTest1" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +177,11 @@
       </method>
     </configuration>
     <configuration name="ProducerConsumerProblemTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.ProducerConsumerProblemTest1" />
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.Multithreading.ProducerConsumerProblemTest1" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +190,11 @@
       </method>
     </configuration>
     <configuration name="RaceConditionTicketBookingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.RaceConditionTicketBookingTest" />
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.Multithreading.RaceConditionTicketBookingTest" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +203,11 @@
       </method>
     </configuration>
     <configuration name="VolatileKeywordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.VolatileKeywordDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.Multithreading.VolatileKeywordDemo" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.Multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
