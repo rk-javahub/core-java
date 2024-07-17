@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/RaceConditionTicketBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/MultithreadingAndConcurrency/Multithreading/RaceConditionTicketBookingTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +27,7 @@
     "Application.DaemonThreadTest.executor": "Run",
     "Application.JoinMethodDemo.executor": "Run",
     "Application.MultithreadingEnhancedTest1.executor": "Run",
+    "Application.ProducerConsumerProblemTest1.executor": "Run",
     "Application.RaceConditionTicketBookingTest.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
@@ -49,7 +47,7 @@
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\dsa\src\main\java\com\rkjavahub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RaceConditionTicketBookingTest">
+  <component name="RunManager" selected="Application.ProducerConsumerProblemTest1">
     <configuration name="JoinMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.JoinMethodDemo" />
       <module name="ocjp" />
@@ -76,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RaceConditionTicketBookingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.RaceConditionTicketBookingTest" />
+    <configuration name="ProducerConsumerProblemTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.ProducerConsumerProblemTest1" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.ThreadDemo" />
+    <configuration name="RaceConditionTicketBookingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.MultithreadingAndConcurrency.Multithreading.RaceConditionTicketBookingTest" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProducerConsumerProblemTest1" />
         <item itemvalue="Application.RaceConditionTicketBookingTest" />
         <item itemvalue="Application.VolatileKeywordDemo" />
         <item itemvalue="Application.JoinMethodDemo" />
         <item itemvalue="Application.MultithreadingEnhancedTest1" />
-        <item itemvalue="Application.ThreadDemo" />
       </list>
     </recent_temporary>
   </component>

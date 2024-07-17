@@ -14,7 +14,7 @@ class Producer1 implements Runnable {
 
 	@Override
 	public void run() {
-		for (int i = 0; i < 10; i++) {// Produce 10 products
+		for (int i = 1; i <= 10; i++) {// Produce 10 products
 			try {
 				produce(i);
 			} catch (InterruptedException e) {
