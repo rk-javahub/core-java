@@ -49,7 +49,7 @@ class User implements Serializable {
 	}
 }
 
-public class CustomSerialization {
+public class 	CustomSerialization {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
 		User usr = new User();
