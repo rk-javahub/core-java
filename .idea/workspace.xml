@@ -6,43 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/CallableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/CallableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DaemonThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/DaemonThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DaemonThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/DaemonThreadTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DeadlocDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/DeadlocDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/DeadlocDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/DeadlocDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/InheritableThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/InheritableThreadLocalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/InterruptingThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/InterruptingThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/JoinMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/JoinMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/JoiningMainThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/JoiningMainThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/MultithreadingEnhancedTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/MultithreadingEnhancedTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/MultithreadingEnhancedTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/MultithreadingEnhancedTest3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerProblemTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerProblemTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerProblemTestBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerProblemTestBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ProducerConsumerWithWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerWithWaitNotify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/RaceConditionTicketBookingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/RaceConditionTicketBookingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizationBlockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/SynchronizationBlockDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizationTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/SynchronizationTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/SynchronizedTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/SynchronizedTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/TestWaitNotifyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/TestWaitNotifyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadByRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadByRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadDemoJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadDemoJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadLocal1Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadLocal1Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadLocalDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadName.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadPoolDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadPriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadPriorityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/VolatileKeywordDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/VolatileKeywordDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/Multithreading/YieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/YieldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/enhanced/CountDownLatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/CyclicBarrierExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/enhanced/CyclicBarrierExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/ThreadGroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/enhanced/ThreadGroupDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/MultithreadingEnhanced/ThreadGroupDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/enhanced/ThreadGroupDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/CustomSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/CustomSerialization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,23 +24,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DaemonThreadTest.executor": "Run",
-    "Application.JoinMethodDemo.executor": "Run",
-    "Application.MultithreadingEnhancedTest1.executor": "Run",
-    "Application.ProducerConsumerProblemTest1.executor": "Run",
-    "Application.RaceConditionTicketBookingTest.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestWaitNotifyDemo.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.VolatileKeywordDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java/interview-program/src/main/java/com/rkjavahub"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/rk-javahub GitHub/core-java/interview-program/src/main/java/com/rkjavahub&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\interview-program\src\main\java\com\rkjavahub" />
