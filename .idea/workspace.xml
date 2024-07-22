@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayInsertAtMiddle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayInsertAtEndOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayInsertAtEndOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayInsertAtEndOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayInsertAtEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +35,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayInsertAtMiddle.executor": "Run",
     "Application.ArrayTraversal.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
+    "Application.DynamicArray.executor": "Run",
     "Application.JoinMethodDemo.executor": "Run",
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
@@ -59,8 +62,24 @@
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\ocjp\src\main\java\com\rkjavahub" />
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\java8\src\main\java\com\rkjavahub" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rkjavahub.dsa.array" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DynamicArray">
+  <component name="RunManager" selected="Application.ArrayInsertAtMiddle">
+    <configuration name="ArrayInsertAtMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayInsertAtMiddle" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArrayTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayTraversal" />
       <module name="dsa" />
@@ -80,19 +99,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProducerConsumerProblemTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.ProducerConsumerProblemTest1" />
-      <module name="ocjp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayInsertAtMiddle" />
         <item itemvalue="Application.DynamicArray" />
         <item itemvalue="Application.StackTraversal" />
         <item itemvalue="Application.ArrayTraversal" />
         <item itemvalue="Application.TestWaitNotifyDemo" />
-        <item itemvalue="Application.ProducerConsumerProblemTest1" />
       </list>
     </recent_temporary>
   </component>

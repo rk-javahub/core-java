@@ -1,6 +1,6 @@
 package com.rkjavahub.dsa.array;
 
-public class ArrayInsertAtEndOperations {
+public class ArrayInsertAtEnd {
     public static void main(String[] args) {
         int[] arrayData = new int[20];
         arrayData[0] = 10;
