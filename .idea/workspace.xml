@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/stack/StackTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
     "Application.RaceConditionTicketBookingTest.executor": "Run",
+    "Application.StackTraversal.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestWaitNotifyDemo.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
@@ -59,7 +60,7 @@
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\java8\src\main\java\com\rkjavahub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayTraversal">
+  <component name="RunManager" selected="Application.StackTraversal">
     <configuration name="ArrayTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayTraversal" />
       <module name="dsa" />
@@ -99,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.stack.StackTraversal" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestWaitNotifyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.TestWaitNotifyDemo" />
       <module name="ocjp" />
@@ -112,26 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileKeywordDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.VolatileKeywordDemo" />
-      <module name="ocjp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackTraversal" />
         <item itemvalue="Application.ArrayTraversal" />
         <item itemvalue="Application.TestWaitNotifyDemo" />
         <item itemvalue="Application.ProducerConsumerProblemTest1" />
         <item itemvalue="Application.RaceConditionTicketBookingTest" />
-        <item itemvalue="Application.VolatileKeywordDemo" />
       </list>
     </recent_temporary>
   </component>
