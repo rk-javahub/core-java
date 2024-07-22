@@ -30,8 +30,6 @@ public class ArrayInsertAtEndOperations {
 
             }
         }
-
-
     }
 
     private static int insertDataAtEnd(int[] arrayData, int currentSize, int insertData, int capacityOfArray) {
@@ -42,6 +40,4 @@ public class ArrayInsertAtEndOperations {
             return 1;
         }
     }
-
-
 }
