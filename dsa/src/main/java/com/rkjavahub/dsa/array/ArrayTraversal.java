@@ -2,6 +2,8 @@ package com.rkjavahub.dsa.array;
 
 /*
 Program to travers through array
+Time Complexity: O(N)
+Auxiliary Space: O(1)
 */
 public class ArrayTraversal {
     public static void main(String[] args) {

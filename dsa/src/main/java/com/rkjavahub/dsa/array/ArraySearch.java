@@ -1,6 +1,6 @@
 package com.rkjavahub.dsa.array;
 
-public class ArraySearchOperations {
+public class ArraySearch {
     public static void main(String[] args) {
         int[] arrayData = {10, 2, 89, 56, 77, 84, 36};
         int searchKey = 77;
@@ -13,8 +13,6 @@ public class ArraySearchOperations {
         } else {
             System.out.println("Element not found in array");
         }
-
-
     }
 
     private static int checkForKeyInArray(int[] arrayData, int searchKey, int lengthOfArray) {
@@ -24,6 +22,5 @@ public class ArraySearchOperations {
             }
         }
         return -1;
-
     }
 }
