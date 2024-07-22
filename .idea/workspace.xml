@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,39 +32,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/rk-javahub GitHub/core-java/interview-program/src/main/java/com/rkjavahub&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayTraversal.executor": "Run",
+    "Application.DaemonThreadTest.executor": "Run",
+    "Application.JoinMethodDemo.executor": "Run",
+    "Application.MultithreadingEnhancedTest1.executor": "Run",
+    "Application.ProducerConsumerProblemTest1.executor": "Run",
+    "Application.RaceConditionTicketBookingTest.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestWaitNotifyDemo.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.VolatileKeywordDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java/solid/src/main/java/com/rkjavahub"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\JAVA\rk-javahub GitHub\core-java\solid\src\main\java\com\rkjavahub" />
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\interview-program\src\main\java\com\rkjavahub" />
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\design-pattern\src\main\java\com\rkjavahub" />
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\ocjp\src\main\java\com\rkjavahub" />
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\java8\src\main\java\com\rkjavahub" />
-      <recent name="F:\JAVA\rk-javahub GitHub\core-java\dsa\src\main\java\com\rkjavahub" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestWaitNotifyDemo">
-    <configuration name="JoinMethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.JoinMethodDemo" />
-      <module name="ocjp" />
+  <component name="RunManager" selected="Application.ArrayTraversal">
+    <configuration name="ArrayTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayTraversal" />
+      <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.multithreading.*" />
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayTraversal" />
         <item itemvalue="Application.TestWaitNotifyDemo" />
         <item itemvalue="Application.ProducerConsumerProblemTest1" />
         <item itemvalue="Application.RaceConditionTicketBookingTest" />
         <item itemvalue="Application.VolatileKeywordDemo" />
-        <item itemvalue="Application.JoinMethodDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -136,5 +145,16 @@
       <updated>1720445702194</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayTraversal.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
