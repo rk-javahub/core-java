@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase10_BlockLambdaExpression.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase3_IntMethodWithStringArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase3_IntMethodWithStringArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase4_IntMethodWithIntArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase4_IntMethodWithIntArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase5_MultithreadingRunnableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase5_MultithreadingRunnableInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,6 +46,7 @@
     "Application.RaceConditionTicketBookingTest.executor": "Run",
     "Application.StackTraversal.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.TestCase10_BlockLambdaExpression.executor": "Run",
     "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
     "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
@@ -80,7 +79,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase3_IntMethodWithStringArgument">
+  <component name="RunManager" selected="Application.TestCase10_BlockLambdaExpression">
     <configuration name="ArrayDeleteElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayDeleteElement" />
       <module name="dsa" />
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayInsertAtMiddle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayInsertAtMiddle" />
-      <module name="dsa" />
+    <configuration name="TestCase10_BlockLambdaExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase10_BlockLambdaExpression" />
+      <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
+          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase10_BlockLambdaExpression" />
         <item itemvalue="Application.TestCase3_IntMethodWithStringArgument" />
         <item itemvalue="Application.TestCase2_VoidMethodWithArgument" />
         <item itemvalue="Application.TestCase1_VoidMethodWithoutArgument" />
         <item itemvalue="Application.ArrayDeleteElement" />
-        <item itemvalue="Application.ArrayInsertAtMiddle" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +178,11 @@
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/ArrayDeleteElement.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase10_BlockLambdaExpression.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
