@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase10_BlockLambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,13 +79,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase10_BlockLambdaExpression">
-    <configuration name="ArrayDeleteElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.ArrayDeleteElement" />
-      <module name="dsa" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.Test" />
+      <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
+          <option name="PATTERN" value="com.rkjavahub.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestCase10_BlockLambdaExpression" />
         <item itemvalue="Application.TestCase3_IntMethodWithStringArgument" />
         <item itemvalue="Application.TestCase2_VoidMethodWithArgument" />
         <item itemvalue="Application.TestCase1_VoidMethodWithoutArgument" />
-        <item itemvalue="Application.ArrayDeleteElement" />
       </list>
     </recent_temporary>
   </component>
