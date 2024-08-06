@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindMissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +43,12 @@
     "Application.ArrayTraversal.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
     "Application.DynamicArray.executor": "Run",
+    "Application.FindMissingNumberInArray.executor": "Run",
     "Application.JoinMethodDemo.executor": "Run",
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
     "Application.RaceConditionTicketBookingTest.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
     "Application.StackTraversal.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestCase10_BlockLambdaExpression.executor": "Run",
@@ -76,10 +81,50 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rkjavahub.dsa.array.problems" />
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.ReverseArray">
+    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.DynamicArray" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindMissingNumberInArray" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.ReverseArray" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.Test" />
       <module name="ocjp" />
@@ -106,52 +151,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase1_VoidMethodWithoutArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase1_VoidMethodWithoutArgument" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase2_VoidMethodWithArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase2_VoidMethodWithArgument" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase3_IntMethodWithStringArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase3_IntMethodWithStringArgument" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.FindMissingNumberInArray" />
+        <item itemvalue="Application.DynamicArray" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestCase10_BlockLambdaExpression" />
-        <item itemvalue="Application.TestCase3_IntMethodWithStringArgument" />
-        <item itemvalue="Application.TestCase2_VoidMethodWithArgument" />
-        <item itemvalue="Application.TestCase1_VoidMethodWithoutArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +189,11 @@
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase10_BlockLambdaExpression.java</url>
           <line>11</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/ReverseArray.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
