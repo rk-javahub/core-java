@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericClassExtends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     "Application.FindLargestAndSmallestElement.executor": "Run",
     "Application.FindMissingNumberInArray.executor": "Run",
     "Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor": "Run",
+    "Application.GenericMethods.executor": "Run",
     "Application.JoinMethodDemo.executor": "Run",
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
@@ -87,7 +87,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGenericClassExtends">
+  <component name="RunManager" selected="Application.GenericMethods">
     <configuration name="FindLargestAndSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindLargestAndSmallestElement" />
       <module name="dsa" />
@@ -114,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.ReverseArray" />
-      <module name="dsa" />
+    <configuration name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.GenericMethods" />
+      <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="PATTERN" value="com.rkjavahub.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethods" />
         <item itemvalue="Application.TestGenericClassExtends" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindLargestAndSmallestElement" />
         <item itemvalue="Application.FindPeakElementWhichIsNotSmallerThanNeighbours" />
-        <item itemvalue="Application.ReverseArray" />
       </list>
     </recent_temporary>
   </component>
