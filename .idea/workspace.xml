@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindLargestAndSmallestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericClassExtends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericsClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
     "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
     "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
+    "Application.TestGenericClassExtends.executor": "Run",
     "Application.TestWaitNotifyDemo.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
     "Application.VolatileKeywordDemo.executor": "Run",
@@ -84,35 +87,9 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindLargestAndSmallestElement">
-    <configuration name="DynamicArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.DynamicArray" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestGenericClassExtends">
     <configuration name="FindLargestAndSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindLargestAndSmallestElement" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindMissingNumberInArray" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -150,13 +127,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.Test" />
+      <module name="ocjp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGenericClassExtends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.TestGenericClassExtends" />
+      <module name="ocjp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestGenericClassExtends" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindLargestAndSmallestElement" />
         <item itemvalue="Application.FindPeakElementWhichIsNotSmallerThanNeighbours" />
         <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.FindMissingNumberInArray" />
-        <item itemvalue="Application.DynamicArray" />
       </list>
     </recent_temporary>
   </component>

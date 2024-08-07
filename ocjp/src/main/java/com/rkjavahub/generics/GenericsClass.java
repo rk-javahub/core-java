@@ -1,7 +1,7 @@
 package com.rkjavahub.generics;
 
 public class GenericsClass<T> {
-    private T value;
+    private final T value;
 
     public GenericsClass(T name) {
         this.value = name;
@@ -10,20 +10,15 @@ public class GenericsClass<T> {
     public T getValue() {
         return value;
     }
-
-    public void setValue(T value) {
-        this.value = value;
-    }
 }
 
-class Test {
+class TestGenericsClass {
     public static void main(String[] args) {
-        GenericsClass stringGenericsClass = new GenericsClass("Rohit");
+        GenericsClass<String> stringGenericsClass = new GenericsClass<String>("Rohit");
         System.out.println(stringGenericsClass.getValue());
 
-        GenericsClass integerGenericsClass = new GenericsClass(7);
+        GenericsClass<Integer> integerGenericsClass = new GenericsClass<Integer>(7);
         System.out.println(integerGenericsClass.getValue());
-
 
 
     }
