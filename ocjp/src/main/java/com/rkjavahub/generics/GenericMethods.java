@@ -1,4 +1,7 @@
 package com.rkjavahub.generics;
+/*
+In GenericMethods we can pass type parameter which can accept any type as argument
+ */
 
 public class GenericMethods {
     public static <E> void printArray(E[] array) {

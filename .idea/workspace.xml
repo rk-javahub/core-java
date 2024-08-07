@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/BoundedWildCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
     "Application.ArrayDeleteElement.executor": "Run",
     "Application.ArrayInsertAtMiddle.executor": "Run",
     "Application.ArrayTraversal.executor": "Run",
+    "Application.BoundedWildCard.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
     "Application.DynamicArray.executor": "Run",
     "Application.FindLargestAndSmallestElement.executor": "Run",
@@ -87,13 +88,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GenericMethods">
-    <configuration name="FindLargestAndSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindLargestAndSmallestElement" />
-      <module name="dsa" />
+  <component name="RunManager" selected="Application.BoundedWildCard">
+    <configuration name="BoundedWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.BoundedWildCard" />
+      <module name="ocjp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="PATTERN" value="com.rkjavahub.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeakElementWhichIsNotSmallerThanNeighbours" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindPeakElementWhichIsNotSmallerThanNeighbours" />
+    <configuration name="FindLargestAndSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindLargestAndSmallestElement" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -155,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoundedWildCard" />
         <item itemvalue="Application.GenericMethods" />
         <item itemvalue="Application.TestGenericClassExtends" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.FindLargestAndSmallestElement" />
-        <item itemvalue="Application.FindPeakElementWhichIsNotSmallerThanNeighbours" />
       </list>
     </recent_temporary>
   </component>
