@@ -1,7 +1,7 @@
 package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
 
 public interface Account {
-	void checkDocuments();
+    void checkDocuments();
 
-	void fillForm();
+    void fillForm();
 }

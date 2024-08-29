@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
 
@@ -9,15 +9,15 @@ package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
  */
 public abstract class Loan {
 
-	abstract double getInterestRate();
+    abstract double getInterestRate();
 
-	public void calculateLoanPayment(double loanAmount, int loan_period, double interestRate) {
-		double EMI;
-		int n;
-		n = loan_period * 12;
-		interestRate = interestRate / 1200;
-		EMI = ((interestRate * Math.pow((1 + interestRate), n)) / ((Math.pow((1 + interestRate), n)) - 1)) * loanAmount;
+    public void calculateLoanPayment(double loanAmount, int loan_period, double interestRate) {
+        double EMI;
+        int n;
+        n = loan_period * 12;
+        interestRate = interestRate / 1200;
+        EMI = ((interestRate * Math.pow((1 + interestRate), n)) / ((Math.pow((1 + interestRate), n)) - 1)) * loanAmount;
 
-		System.out.println("Your monthly EMI is " + EMI + " for the amount " + loanAmount + " you have borrowed");
-	}
+        System.out.println("Your monthly EMI is " + EMI + " for the amount " + loanAmount + " you have borrowed");
+    }
 }

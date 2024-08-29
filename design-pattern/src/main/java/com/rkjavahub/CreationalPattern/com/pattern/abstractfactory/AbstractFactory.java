@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
 
@@ -8,8 +8,8 @@ package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
  *
  */
 public abstract class AbstractFactory {
-	public abstract Account getAccount(String accountType);
+    public abstract Account getAccount(String accountType);
 
-	public abstract Loan getLoan(String loanType);
+    public abstract Loan getLoan(String loanType);
 
 }

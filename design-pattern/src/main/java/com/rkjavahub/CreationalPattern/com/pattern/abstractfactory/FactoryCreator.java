@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
 
@@ -8,12 +8,12 @@ package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
  *
  */
 public class FactoryCreator {
-	public static AbstractFactory getFactory(String choice) {
-		if (choice.equals("Account")) {
-			return new AccountFactory();
-		} else if (choice.equals("Loan")) {
-			return new LoanFactory();
-		} else
-			return null;
-	}
+    public static AbstractFactory getFactory(String choice) {
+        if (choice.equals("Account")) {
+            return new AccountFactory();
+        } else if (choice.equals("Loan")) {
+            return new LoanFactory();
+        } else
+            return null;
+    }
 }

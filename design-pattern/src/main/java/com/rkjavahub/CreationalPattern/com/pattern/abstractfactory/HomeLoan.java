@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
 
@@ -9,9 +9,9 @@ package com.rkjavahub.CreationalPattern.com.pattern.abstractfactory;
  */
 public class HomeLoan extends Loan {
 
-	@Override
-	double getInterestRate() {
-		return 8.5;
-	}
+    @Override
+    double getInterestRate() {
+        return 8.5;
+    }
 
 }
