@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/BoundedWildCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/TryStoringStringInArrayDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/generics/GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/foreach/forEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/foreach/forEachDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,9 @@
     "Application.TestGenericClassExtends.executor": "Run",
     "Application.TestWaitNotifyDemo.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
+    "Application.TryStoringStringInArrayDemo.executor": "Run",
     "Application.VolatileKeywordDemo.executor": "Run",
+    "Application.forEachDemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
@@ -88,7 +90,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BoundedWildCard">
+  <component name="RunManager" selected="Application.TryStoringStringInArrayDemo">
     <configuration name="BoundedWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.BoundedWildCard" />
       <module name="ocjp" />
@@ -102,34 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargestAndSmallestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindLargestAndSmallestElement" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="GenericMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.GenericMethods" />
-      <module name="ocjp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.generics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.Test" />
       <module name="ocjp" />
       <extension name="coverage">
         <pattern>
@@ -154,13 +130,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryStoringStringInArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.TryStoringStringInArrayDemo" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.foreach.forEachDemo" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.foreach.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryStoringStringInArrayDemo" />
+        <item itemvalue="Application.forEachDemo" />
         <item itemvalue="Application.BoundedWildCard" />
         <item itemvalue="Application.GenericMethods" />
         <item itemvalue="Application.TestGenericClassExtends" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FindLargestAndSmallestElement" />
       </list>
     </recent_temporary>
   </component>
