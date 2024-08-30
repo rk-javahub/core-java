@@ -6,19 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AccountFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AccountFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CarLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CarLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/FactoryCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/FactoryCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/HomeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/HomeLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/LoanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/LoanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/PersonalLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/PersonalLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SalaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SalaryAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,50 +46,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayDeleteElement.executor": "Run",
-    "Application.ArrayInsertAtMiddle.executor": "Run",
-    "Application.ArrayTraversal.executor": "Run",
-    "Application.BoundedWildCard.executor": "Run",
-    "Application.DaemonThreadTest.executor": "Run",
-    "Application.DynamicArray.executor": "Run",
-    "Application.FindLargestAndSmallestElement.executor": "Run",
-    "Application.FindMissingNumberInArray.executor": "Run",
-    "Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor": "Run",
-    "Application.GenericMethods.executor": "Run",
-    "Application.JoinMethodDemo.executor": "Run",
-    "Application.MultithreadingEnhancedTest1.executor": "Run",
-    "Application.ProducerConsumerProblemTest1.executor": "Run",
-    "Application.RaceConditionTicketBookingTest.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.StackTraversal.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.TestCase10_BlockLambdaExpression.executor": "Run",
-    "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
-    "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
-    "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
-    "Application.TestGenericClassExtends.executor": "Run",
-    "Application.TestWaitNotifyDemo.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.TryStoringStringInArrayDemo.executor": "Run",
-    "Application.VolatileKeywordDemo.executor": "Run",
-    "Application.forEachDemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayDeleteElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayInsertAtMiddle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundedWildCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLargestAndSmallestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMissingNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase10_BlockLambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1_VoidMethodWithoutArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_VoidMethodWithArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase3_IntMethodWithStringArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestGenericClassExtends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryStoringStringInArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forEachDemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/rk-javahub GitHub/core-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\solid\src\main\java\com\rkjavahub" />
@@ -212,7 +201,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720445702194</updated>
-      <workItem from="1724921012152" duration="2681000" />
+      <workItem from="1724921012152" duration="3822000" />
+      <workItem from="1724992078607" duration="3346000" />
     </task>
     <servers />
   </component>
