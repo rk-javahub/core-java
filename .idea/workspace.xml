@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Arrays/com/arrays/demo/FindMissingNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/arrays/FindMissingNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/ArmstrongNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/DuplicateNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/DuplicateNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/FactorialDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/FactorialDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/FactorialRecursionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/FactorialRecursionDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/FibonacciWithRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/FibonacciWithRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/FibonacciWithoutRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/FibonacciWithoutRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/IsPerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/IsPerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/OpenNotepad.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/OpenNotepad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/PallindromString.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/PallindromString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/PallindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/PallindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/PrimeNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/PrimeNumberExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/PrimeNumberExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/PrimeNumberExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/Print1to10withoutloop.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/Print1to10withoutloop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/SwapNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/SwapNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/largerof3num.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/largerof3num.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Basic/com/basic/demo/largerof3num_Way2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/largerof3num_Way2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/NumberPattern/PatternProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/numberPattern/PatternProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/NumberPattern/PatternProgram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/numberPattern/PatternProgram2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/NumberPattern/PatternProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/numberPattern/PatternProgram3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/NumberPattern/PatternProgram4.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/numberPattern/PatternProgram4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/NumberPattern/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/numberPattern/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram1.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram10.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram11.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram12.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram13.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram14.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram15.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram3.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram4.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram5.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram6.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram7.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram8.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram8_Way2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram8_Way2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram9.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Pattern/com/pattern/StarPattern/PatternProgram9_Way2.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/patterns/starPattern/PatternProgram9_Way2.java" afterDir="false" />
-    </list>
+    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,13 +106,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FizzBuzz">
-    <configuration name="BoundedWildCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.generics.BoundedWildCard" />
-      <module name="ocjp" />
+  <component name="RunManager" selected="Application.FindSum">
+    <configuration name="FindSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.basic.FindSum" />
+      <module name="interview-program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.generics.*" />
+          <option name="PATTERN" value="com.rkjavahub.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSum" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TryStoringStringInArrayDemo" />
         <item itemvalue="Application.forEachDemo" />
-        <item itemvalue="Application.BoundedWildCard" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +204,7 @@
       <workItem from="1725080398234" duration="7000" />
       <workItem from="1725080418831" duration="30000" />
       <workItem from="1725879977220" duration="406000" />
-      <workItem from="1725943068982" duration="319000" />
+      <workItem from="1725943068982" duration="671000" />
     </task>
     <servers />
   </component>
