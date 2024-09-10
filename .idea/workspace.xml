@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/RemoveEvenFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/arrays/FindMissingNumberInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/RemoveEvenFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/RemoveEvenFromArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,7 +211,7 @@
       <workItem from="1725080398234" duration="7000" />
       <workItem from="1725080418831" duration="30000" />
       <workItem from="1725879977220" duration="406000" />
-      <workItem from="1725943068982" duration="7507000" />
+      <workItem from="1725943068982" duration="13851000" />
     </task>
     <servers />
   </component>

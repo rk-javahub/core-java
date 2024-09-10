@@ -31,6 +31,6 @@ public class RemoveEvenFromArray {
                 countOddArray++;
             }
         }
-        Arrays.stream(oddNumberArray).forEach(System.out::print);
+        Arrays.stream(oddNumberArray).forEach(s -> System.out.print(s + " "));
     }
 }
