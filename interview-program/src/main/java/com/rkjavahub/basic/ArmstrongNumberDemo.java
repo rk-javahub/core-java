@@ -1,7 +1,8 @@
-/*Program to check number is armstrong or not
+/*
+ *  Program to check number is armstrong or not
  * Armstrong number is a number that is equal to the sum of cubes of its digits.
  * For example 0, 1, 153, 370, 371 and 407 are the Armstrong numbers.
- * */
+ */
 package com.rkjavahub.basic;
 
 public class ArmstrongNumberDemo {

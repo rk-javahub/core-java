@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/RemoveEvenFromArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/arrays/FindMissingNumberInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +56,7 @@
     "Application.ArrayTraversal.executor": "Run",
     "Application.BoundedWildCard.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
+    "Application.Demo.executor": "Run",
     "Application.DynamicArray.executor": "Run",
     "Application.FindLargestAndSmallestElement.executor": "Run",
     "Application.FindMissingNumberInArray.executor": "Run",
@@ -63,6 +68,7 @@
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
     "Application.RaceConditionTicketBookingTest.executor": "Run",
+    "Application.RemoveEvenFromArray.executor": "Run",
     "Application.ReverseArray.executor": "Run",
     "Application.StackTraversal.executor": "Run",
     "Application.Test.executor": "Run",
@@ -110,13 +116,26 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArmstrongNumberDemo">
+  <component name="RunManager" selected="Application.RemoveEvenFromArray">
     <configuration name="ArmstrongNumberDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.basic.ArmstrongNumberDemo" />
       <module name="interview-program" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rkjavahub.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Demo" />
+      <module name="interview-program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,21 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.CreationalPattern.com.pattern.factory.Test" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.CreationalPattern.com.pattern.factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryStoringStringInArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.TryStoringStringInArrayDemo" />
+    <configuration name="RemoveEvenFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.RemoveEvenFromArray" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -178,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveEvenFromArray" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.ArmstrongNumberDemo" />
         <item itemvalue="Application.FindSum" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TryStoringStringInArrayDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +214,7 @@
       <workItem from="1725080398234" duration="7000" />
       <workItem from="1725080418831" duration="30000" />
       <workItem from="1725879977220" duration="406000" />
-      <workItem from="1725943068982" duration="2819000" />
+      <workItem from="1725943068982" duration="7507000" />
     </task>
     <servers />
   </component>
