@@ -1,5 +1,10 @@
 package com.rkjavahub.dsa.array.problems;
 
+/*
+Find second largest element from array.
+For EX: int[] intArray = {12, 25, 2, 36, 7, 27, 77, 57, 37, 97};
+In above array second largest is 77
+ */
 public class FindSecondMaximumNumberInArray {
     public static void main(String[] args) {
         int[] intArray = {12, 25, 2, 36, 7, 27, 77, 57, 37, 97};
