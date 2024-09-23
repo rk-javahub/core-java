@@ -3,7 +3,7 @@ package com.rkjavahub.dsa.array.problems;
 Program to move zeros in array at end of the array.
 For given array Ex: int[] intArray = {12, 0, 2, 0, 7, 0, 77, 57, 37, 97};
     Output : {12 2 7 77 57 37 97 0 0 0}
- */
+*/
 
 public class MoveZerosToEnd {
     public static void main(String[] args) {
