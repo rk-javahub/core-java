@@ -63,6 +63,7 @@
     "Application.FizzBuzz.executor": "Run",
     "Application.GenericMethods.executor": "Run",
     "Application.JoinMethodDemo.executor": "Run",
+    "Application.MoveZerosToEnd.executor": "Run",
     "Application.MultithreadingEnhancedTest1.executor": "Run",
     "Application.ProducerConsumerProblemTest1.executor": "Run",
     "Application.RaceConditionTicketBookingTest.executor": "Run",
@@ -115,7 +116,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindSecondMaximumNumberInArray">
+  <component name="RunManager" selected="Application.MoveZerosToEnd">
     <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.CallableTest" />
       <module name="ocjp" />
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Demo" />
-      <module name="interview-program" />
+    <configuration name="FindSecondMaximumNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindSecondMaximumNumberInArray" />
+      <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.*" />
+          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSecondMaximumNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindSecondMaximumNumberInArray" />
+    <configuration name="MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.MoveZerosToEnd" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZerosToEnd" />
         <item itemvalue="Application.FindSecondMaximumNumberInArray" />
         <item itemvalue="Application.CallableTest" />
         <item itemvalue="Application.SerializationExample" />
         <item itemvalue="Application.RemoveEvenFromArray" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +220,7 @@
       <workItem from="1726460448464" duration="1764000" />
       <workItem from="1726469825520" duration="12000" />
       <workItem from="1726633012213" duration="1879000" />
-      <workItem from="1727064420406" duration="2071000" />
+      <workItem from="1727064420406" duration="3208000" />
     </task>
     <servers />
   </component>
