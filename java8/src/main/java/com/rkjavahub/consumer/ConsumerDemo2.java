@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.consumer;
 
@@ -11,8 +11,8 @@ import java.util.List;
  *
  */
 public class ConsumerDemo2 {
-	public static void main(String[] args) {
-		List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7);
-		list.stream().forEach((a) -> System.out.println(a));
-	}
+    public static void main(String[] args) {
+        List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7);
+        list.forEach(System.out::println);
+    }
 }
