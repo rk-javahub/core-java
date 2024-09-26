@@ -1,7 +1,7 @@
 package com.rkjavahub.lambda_expression;
 
-class Task implements Runnable {
-
+// Traditional approach
+/*class Task implements Runnable {
     @Override
     public void run() {
         for (int i = 0; i < 5; i++) {
@@ -13,7 +13,7 @@ class Task implements Runnable {
             }
         }
     }
-}
+}*/
 
 public class TestCase5_MultithreadingRunnableInterface {
 
@@ -23,6 +23,7 @@ public class TestCase5_MultithreadingRunnableInterface {
          * Runnable r = new Task(); Thread t = new Thread(r); t.start(); }
          */
 
+        // Java 8 lambda approach
         Runnable r1 = () -> {
             for (int i = 0; i < 5; i++) {
                 System.out.println("Child thread");
@@ -36,6 +37,7 @@ public class TestCase5_MultithreadingRunnableInterface {
 
         Thread t1 = new Thread(r1);
         t1.start();
+
         for (int i = 0; i < 5; i++) {
             System.out.println("Main thread");
             try {

@@ -4,8 +4,8 @@ interface Interf2 {
     int length(String s);
 }
 
+// Traditional approach we need to create class to implement method in interface
 class Demo2 implements Interf2 {
-
     @Override
     public int length(String s) {
         return +s.length();
@@ -19,9 +19,7 @@ public class TestCase3_IntMethodWithStringArgument {
         System.out.println("String length using traditional approach is " + i.length("Rohit"));
 
         // Calling m1() by using lambda expression (Java 1.8)
-        Interf2 i2 = (s) -> {
-            return s.length();
-        };
+        Interf2 i2 = String::length;
 
         System.out.println("String length using lambda expression approach is " + i2.length("Sachin"));
     }

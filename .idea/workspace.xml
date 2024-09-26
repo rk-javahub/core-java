@@ -6,8 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase1_VoidMethodWithoutArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase1_VoidMethodWithoutArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase2_VoidMethodWithArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase2_VoidMethodWithArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase3_IntMethodWithStringArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase3_IntMethodWithStringArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase4_IntMethodWithIntArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase4_IntMethodWithIntArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase5_MultithreadingRunnableInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase5_MultithreadingRunnableInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase6_ArrayListComparatorInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase6_ArrayListComparatorInterface.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,60 +52,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArmstrongNumberDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDeleteElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayInsertAtMiddle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayResizing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BoundedWildCard.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CallableTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DynamicArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindLargestAndSmallestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMissingNumberInArray.executor&quot;: &quot;Debug with VisualVM&quot;,
-    &quot;Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindSecondMaximumNumberInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveEvenFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SerializationExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StackTraversal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase10_BlockLambdaExpression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase1_VoidMethodWithoutArgument.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase2_VoidMethodWithArgument.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCase3_IntMethodWithStringArgument.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestGenericClassExtends.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryStoringStringInArrayDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.forEachDemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/rk-javahub GitHub/core-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumberDemo.executor": "Run",
+    "Application.ArrayDeleteElement.executor": "Run",
+    "Application.ArrayInsertAtMiddle.executor": "Run",
+    "Application.ArrayResizing.executor": "Run",
+    "Application.ArrayTraversal.executor": "Run",
+    "Application.BoundedWildCard.executor": "Run",
+    "Application.CallableTest.executor": "Run",
+    "Application.DaemonThreadTest.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DynamicArray.executor": "Run",
+    "Application.FindLargestAndSmallestElement.executor": "Run",
+    "Application.FindMissingNumberInArray.executor": "Debug with VisualVM",
+    "Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor": "Run",
+    "Application.FindSecondMaximumNumberInArray.executor": "Run",
+    "Application.FindSum.executor": "Run",
+    "Application.FizzBuzz.executor": "Run",
+    "Application.GenericMethods.executor": "Run",
+    "Application.JoinMethodDemo.executor": "Run",
+    "Application.MoveZerosToEnd.executor": "Run",
+    "Application.MultithreadingEnhancedTest1.executor": "Run",
+    "Application.ProducerConsumerProblemTest1.executor": "Run",
+    "Application.RaceConditionTicketBookingTest.executor": "Run",
+    "Application.RemoveEvenFromArray.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.SerializationExample.executor": "Run",
+    "Application.StackTraversal.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TestCase10_BlockLambdaExpression.executor": "Run",
+    "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
+    "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
+    "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
+    "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
+    "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
+    "Application.TestGenericClassExtends.executor": "Run",
+    "Application.TestWaitNotifyDemo.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.TryStoringStringInArrayDemo.executor": "Run",
+    "Application.VolatileKeywordDemo.executor": "Run",
+    "Application.forEachDemo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\solid\src\main\java\com\rkjavahub" />
@@ -119,33 +127,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindMissingNumberInArray">
-    <configuration name="ArrayResizing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.ArrayResizing" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.multithreading_concurrency.multithreading.CallableTest" />
-      <module name="ocjp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.multithreading_concurrency.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestCase6_ArrayListComparatorInterface">
     <configuration name="FindMissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindMissingNumberInArray" />
       <module name="dsa" />
@@ -159,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSecondMaximumNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.FindSecondMaximumNumberInArray" />
-      <module name="dsa" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Test" />
+      <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="PATTERN" value="com.rkjavahub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +154,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.dsa.array.problems.MoveZerosToEnd" />
-      <module name="dsa" />
+    <configuration name="TestCase3_IntMethodWithStringArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase3_IntMethodWithStringArgument" />
+      <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.dsa.array.problems.*" />
+          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase5_MultithreadingRunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase5_MultithreadingRunnableInterface" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase6_ArrayListComparatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase6_ArrayListComparatorInterface" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase6_ArrayListComparatorInterface" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.TestCase5_MultithreadingRunnableInterface" />
+        <item itemvalue="Application.TestCase3_IntMethodWithStringArgument" />
         <item itemvalue="Application.FindMissingNumberInArray" />
-        <item itemvalue="Application.ArrayResizing" />
-        <item itemvalue="Application.MoveZerosToEnd" />
-        <item itemvalue="Application.FindSecondMaximumNumberInArray" />
-        <item itemvalue="Application.CallableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +233,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="2244000" />
+      <workItem from="1727240604200" duration="11527000" />
     </task>
     <servers />
   </component>
@@ -269,6 +277,11 @@
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindPeakElementWhichIsNotSmallerThanNeighbours.java</url>
           <line>21</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindMissingNumberInArray.java</url>

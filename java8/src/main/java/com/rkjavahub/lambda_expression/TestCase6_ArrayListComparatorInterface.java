@@ -46,11 +46,11 @@ public class TestCase6_ArrayListComparatorInterface {
 
 		// Collections.sort(al, (ob1, ob2) -> (ob1 > ob2) ? -1 : (ob1 < ob2) ? 1 : 0);
 
-		Collections.sort(al, (obj1, obj2) -> obj1.compareTo(obj2));
+		al.sort(Integer::compareTo);
 
 		System.out.println("After sorting in ascending order: " + al);
 
-		Collections.sort(al, (obj1, obj2) -> obj2.compareTo(obj1));
+		al.sort(Comparator.reverseOrder());
 
 		System.out.println("After sorting in descending order: " + al);
 

@@ -4,8 +4,8 @@ interface Interf3 {
     int squareIt(int a);
 }
 
+// Traditional approach we need to create class to implement method in interface
 class Demo3 implements Interf3 {
-
     @Override
     public int squareIt(int a) {
         return +a * a;
@@ -24,6 +24,5 @@ public class TestCase4_IntMethodWithIntArgument {
             return (a * a);
         };
         System.out.println("Square of number using lambda expression is " + i3.squareIt(7));
-
     }
 }
