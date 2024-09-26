@@ -3,7 +3,6 @@ package com.rkjavahub.predicate;
 import java.util.function.Predicate;
 
 public class TestCase2_PredicateJoining {
-
     public static void main(String[] args) {
         int[] num = {4, 9, 7, 45, 36, 5, 17, 12, 14, 10};
         // Predicate to check number greater than 15.
@@ -28,7 +27,5 @@ public class TestCase2_PredicateJoining {
                 System.out.print(x + " ");
             }
         }
-
     }
-
 }

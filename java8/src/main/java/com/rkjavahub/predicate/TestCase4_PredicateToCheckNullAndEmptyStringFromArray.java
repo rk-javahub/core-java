@@ -15,7 +15,7 @@ public class TestCase4_PredicateToCheckNullAndEmptyStringFromArray {
         String[] str = {"Solapur", "Pune", "", null, "Mumbai", "Kolhapur"};
 
         // Predicate to check empty string.
-        Predicate<String> result = res -> res != null && res.length() != 0;
+        Predicate<String> result = res -> res != null && !res.isEmpty();
 
         System.out.println("List with no null and empty objects is: ");
         m1(result, str);
