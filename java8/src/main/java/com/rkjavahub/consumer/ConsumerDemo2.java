@@ -8,11 +8,10 @@ import java.util.List;
 
 /**
  * @author r.a.ashok.kumbhar
- *
  */
 public class ConsumerDemo2 {
     public static void main(String[] args) {
         List<Integer> list = Arrays.asList(1, 2, 3, 4, 5, 6, 7);
-        list.forEach(System.out::println);
+        list.forEach(System.out::println); // forEach method accepts consumer as argument
     }
 }

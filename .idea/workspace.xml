@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/CheckEvenOrOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/CheckEvenOrOddInListUsingFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase1_CheckCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase1_CheckCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase3_PredicateToCheckNameWithStartinLetterR.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase3_PredicateToCheckNameWithStartinLetterR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase5_UserAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase5_UserAuthentication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +57,8 @@
     "Application.ArrayTraversal.executor": "Run",
     "Application.BoundedWildCard.executor": "Run",
     "Application.CallableTest.executor": "Run",
+    "Application.CheckEvenOrOdd.executor": "Run",
+    "Application.CheckEvenOrOddInListUsingFilter.executor": "Run",
     "Application.ConsumerDemo1.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
     "Application.Demo.executor": "Run",
@@ -108,7 +106,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -127,11 +125,38 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rkjavahub.predicate" />
       <recent name="com.rkjavahub.dsa.array.problems" />
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase2_PredicateJoining">
+  <component name="RunManager" selected="Application.CheckEvenOrOddInListUsingFilter">
+    <configuration name="CheckEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.CheckEvenOrOdd" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEvenOrOddInListUsingFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.CheckEvenOrOddInListUsingFilter" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.consumer.ConsumerDemo1" />
       <module name="java8" />
@@ -158,32 +183,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase6_ArrayListComparatorInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase6_ArrayListComparatorInterface" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase7_TreeMapSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase7_TreeMapSortingDemo" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestCase9_CustomObjectSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase9_CustomObjectSortingDemo" />
       <module name="java8" />
@@ -199,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckEvenOrOddInListUsingFilter" />
+        <item itemvalue="Application.CheckEvenOrOdd" />
         <item itemvalue="Application.TestCase2_PredicateJoining" />
         <item itemvalue="Application.ConsumerDemo1" />
         <item itemvalue="Application.TestCase9_CustomObjectSortingDemo" />
-        <item itemvalue="Application.TestCase7_TreeMapSortingDemo" />
-        <item itemvalue="Application.TestCase6_ArrayListComparatorInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="18282000" />
+      <workItem from="1727240604200" duration="20111000" />
     </task>
     <servers />
   </component>
@@ -289,7 +288,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java</url>
-          <line>66</line>
+          <line>49</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

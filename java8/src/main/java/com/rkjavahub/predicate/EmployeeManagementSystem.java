@@ -1,6 +1,5 @@
 package com.rkjavahub.predicate;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
@@ -24,32 +23,16 @@ class Employee {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public String getDesignation() {
         return designation;
-    }
-
-    public void setDesignation(String designation) {
-        this.designation = designation;
     }
 
     public int getSalary() {
         return salary;
     }
 
-    public void setSalary(int salary) {
-        this.salary = salary;
-    }
-
     public String getCity() {
         return city;
-    }
-
-    public void setCity(String city) {
-        this.city = city;
     }
 
     @Override
@@ -70,7 +53,7 @@ public class EmployeeManagementSystem {
         Employee e5 = new Employee("Raj", "Analyst", 60000, "Pune");
         Employee e6 = new Employee("Ratan", "CEO", 5000000, "Banglore");
 
-        List<Employee> employees = new ArrayList<Employee>();
+        List<Employee> employees;
         employees = Stream.of(e, e1, e2, e3, e4, e5, e6).collect(Collectors.toList());
 
         // Get employees who have designation as Manager
