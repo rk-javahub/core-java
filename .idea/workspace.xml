@@ -6,7 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase9_CustomObjectSortingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase9_CustomObjectSortingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/consumer/ConsumerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase1_CheckCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase1_CheckCondition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase3_PredicateToCheckNameWithStartinLetterR.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase3_PredicateToCheckNameWithStartinLetterR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase5_UserAuthentication.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase5_UserAuthentication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +61,7 @@
     "Application.ArrayTraversal.executor": "Run",
     "Application.BoundedWildCard.executor": "Run",
     "Application.CallableTest.executor": "Run",
+    "Application.ConsumerDemo1.executor": "Run",
     "Application.DaemonThreadTest.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DynamicArray.executor": "Run",
@@ -76,6 +84,7 @@
     "Application.Test.executor": "Run",
     "Application.TestCase10_BlockLambdaExpression.executor": "Run",
     "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
+    "Application.TestCase2_PredicateJoining.executor": "Run",
     "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
     "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
@@ -122,13 +131,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase9_CustomObjectSortingDemo">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Test" />
+  <component name="RunManager" selected="Application.TestCase2_PredicateJoining">
+    <configuration name="ConsumerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.consumer.ConsumerDemo1" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.*" />
+          <option name="PATTERN" value="com.rkjavahub.consumer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase5_MultithreadingRunnableInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase5_MultithreadingRunnableInterface" />
+    <configuration name="TestCase2_PredicateJoining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.TestCase2_PredicateJoining" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
+          <option name="PATTERN" value="com.rkjavahub.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase2_PredicateJoining" />
+        <item itemvalue="Application.ConsumerDemo1" />
         <item itemvalue="Application.TestCase9_CustomObjectSortingDemo" />
         <item itemvalue="Application.TestCase7_TreeMapSortingDemo" />
         <item itemvalue="Application.TestCase6_ArrayListComparatorInterface" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestCase5_MultithreadingRunnableInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +237,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="15854000" />
+      <workItem from="1727240604200" duration="18282000" />
     </task>
     <servers />
   </component>
@@ -277,6 +286,11 @@
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java</url>
           <line>2</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindMissingNumberInArray.java</url>

@@ -73,7 +73,7 @@ public class SortingCustomObjectInMap {
 		Employee e5 = new Employee("Raj", "Analyst", 60000, "Pune");
 		Employee e6 = new Employee("Ratan", "CEO", 5000000, "Banglore");
 
-		Map<Employee, Integer> employees = new HashMap();
+		Map<Employee, Integer> employees = new HashMap<>();
 		employees.put(e, 27);
 		employees.put(e1, 28);
 		employees.put(e2, 26);

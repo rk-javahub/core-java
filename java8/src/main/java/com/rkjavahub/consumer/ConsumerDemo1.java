@@ -7,17 +7,16 @@ import java.util.function.Consumer;
 
 /**
  * @author r.a.ashok.kumbhar
- *
  */
-public class ConsumerDemo1 implements Consumer<Integer> {
+public class ConsumerDemo1 {
     public static void main(String[] args) {
-        Consumer<Integer> consumer = (a) -> System.out.println("Printing : " + a);
+        Consumer<Integer> consumer = a -> System.out.println("Printing : " + a);
         consumer.accept(10);
     }
 
-    @Override
+/*    @Override
     public void accept(Integer a) {
         System.out.println("Printing : " + a);
-    }
+    }*/
 
 }
