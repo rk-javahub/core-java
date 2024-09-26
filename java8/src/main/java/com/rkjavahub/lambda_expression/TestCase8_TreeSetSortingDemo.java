@@ -6,7 +6,7 @@ import java.util.TreeSet;
 public class TestCase8_TreeSetSortingDemo {
 
 	public static void main(String[] args) {
-		Set<Integer> ts = new TreeSet<Integer>((obj1, obj2) -> obj1.compareTo(obj2));
+		Set<Integer> ts = new TreeSet<Integer>(Integer::compareTo);
 		ts.add(9);
 		ts.add(7);
 		ts.add(29);
