@@ -2,6 +2,7 @@ package com.rkjavahub.lambda_expression;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class TestCase9_CustomObjectSortingDemo {
 
@@ -10,11 +11,11 @@ public class TestCase9_CustomObjectSortingDemo {
 
         System.out.println("Employees before sorting " + al);
 
-        al.sort((emp1, emp2) -> emp1.getEmpName().compareTo(emp2.getEmpName()));
+        al.sort(Comparator.comparing(Employee::getEmpName));
 
         System.out.println("Employees after sorting based on name " + al);
 
-        al.sort((emp1, emp2) -> emp1.getEmpId().compareTo(emp2.getEmpId()));
+        al.sort(Comparator.comparing(Employee::getEmpId));
 
         System.out.println("Employees after sorting based on employee id " + al);
     }

@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase7_TreeMapSortingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase7_TreeMapSortingDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase8_TreeSetSortingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase8_TreeSetSortingDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase9_CustomObjectSortingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/lambda_expression/TestCase9_CustomObjectSortingDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,6 +81,7 @@
     "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
     "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
     "Application.TestCase7_TreeMapSortingDemo.executor": "Run",
+    "Application.TestCase9_CustomObjectSortingDemo.executor": "Run",
     "Application.TestGenericClassExtends.executor": "Run",
     "Application.TestWaitNotifyDemo.executor": "Run",
     "Application.ThreadDemo.executor": "Run",
@@ -123,26 +122,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase7_TreeMapSortingDemo">
+  <component name="RunManager" selected="Application.TestCase9_CustomObjectSortingDemo">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Test" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rkjavahub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase3_IntMethodWithStringArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase3_IntMethodWithStringArgument" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,13 +175,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase9_CustomObjectSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase9_CustomObjectSortingDemo" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase9_CustomObjectSortingDemo" />
         <item itemvalue="Application.TestCase7_TreeMapSortingDemo" />
         <item itemvalue="Application.TestCase6_ArrayListComparatorInterface" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestCase5_MultithreadingRunnableInterface" />
-        <item itemvalue="Application.TestCase3_IntMethodWithStringArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +228,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="11997000" />
+      <workItem from="1727240604200" duration="15854000" />
     </task>
     <servers />
   </component>
