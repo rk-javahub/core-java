@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase5_Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase5_Foreach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/supplier/SupplierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/supplier/SupplierDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +78,14 @@
     "Application.ReverseArray.executor": "Run",
     "Application.SerializationExample.executor": "Run",
     "Application.StackTraversal.executor": "Run",
+    "Application.SupplierDemo2.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TestCase10_BlockLambdaExpression.executor": "Run",
     "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
     "Application.TestCase2_PredicateJoining.executor": "Run",
     "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
+    "Application.TestCase5_Foreach.executor": "Run",
     "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
     "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
     "Application.TestCase7_TreeMapSortingDemo.executor": "Run",
@@ -94,6 +96,8 @@
     "Application.TryStoringStringInArrayDemo.executor": "Run",
     "Application.VolatileKeywordDemo.executor": "Run",
     "Application.forEachDemo.executor": "Run",
+    "Maven.core-java [clean].executor": "Run",
+    "Maven.core-java [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
@@ -129,7 +133,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckEvenOrOddInListUsingFilter">
+  <component name="RunManager" selected="Application.TestCase5_Foreach">
     <configuration name="CheckEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.CheckEvenOrOdd" />
       <module name="java8" />
@@ -156,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.consumer.ConsumerDemo1" />
+    <configuration name="SupplierDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.supplier.SupplierDemo2" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.consumer.*" />
+          <option name="PATTERN" value="com.rkjavahub.supplier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2_PredicateJoining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.TestCase2_PredicateJoining" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Test" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.predicate.*" />
+          <option name="PATTERN" value="com.rkjavahub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase9_CustomObjectSortingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.lambda_expression.TestCase9_CustomObjectSortingDemo" />
+    <configuration name="TestCase5_Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase5_Foreach" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.lambda_expression.*" />
+          <option name="PATTERN" value="com.rkjavahub.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase5_Foreach" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SupplierDemo2" />
         <item itemvalue="Application.CheckEvenOrOddInListUsingFilter" />
         <item itemvalue="Application.CheckEvenOrOdd" />
-        <item itemvalue="Application.TestCase2_PredicateJoining" />
-        <item itemvalue="Application.ConsumerDemo1" />
-        <item itemvalue="Application.TestCase9_CustomObjectSortingDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +239,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="23335000" />
+      <workItem from="1727240604200" duration="24641000" />
     </task>
     <servers />
   </component>
@@ -287,7 +291,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java</url>
-          <line>48</line>
+          <line>28</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">

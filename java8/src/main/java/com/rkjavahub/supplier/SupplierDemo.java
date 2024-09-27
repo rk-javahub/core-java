@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.rkjavahub.supplier;
 
@@ -10,11 +10,11 @@ import java.util.function.Supplier;
  *
  */
 public class SupplierDemo {
-	public static void main(String[] args) {
-		Supplier<String> supplier = () -> {
-			return "Hello Rohit";
-		};
+    public static void main(String[] args) {
+        Supplier<String> supplier = () -> {
+            return "Hello Rohit";
+        };
 
-		System.out.println(supplier.get());
-	}
+        System.out.println(supplier.get());
+    }
 }

@@ -1,25 +1,14 @@
 package com.rkjavahub;
 
+import java.util.Arrays;
+import java.util.List;
+
 public class Test {
 
     public static void main(String[] args) throws InterruptedException {
-        Runnable r = () -> {
-            for (int i = 0; i < 5; i++) {
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
-                System.out.println("Child thread");
-            }
-        };
+        List ls= Arrays.asList("Rohit","Sachin","Raju","Rohan","Rahul");
 
-        for (int i = 0; i < 5; i++) {
-            System.out.println("Main thread");
-            Thread.sleep(1000);
-            r.run();
-        }
-
+        ls.stream().forEach(System.out::println);
     }
 
 }
