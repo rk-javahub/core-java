@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase5_Foreach.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase5_Foreach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/supplier/SupplierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/supplier/SupplierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase3_Filter_and_Map_on_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase3_Filter_and_Map_on_String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +82,7 @@
     "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
     "Application.TestCase2_PredicateJoining.executor": "Run",
     "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
+    "Application.TestCase3_Filter_and_Map_on_String.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
     "Application.TestCase5_Foreach.executor": "Run",
     "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
@@ -133,20 +132,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase5_Foreach">
-    <configuration name="CheckEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.CheckEvenOrOdd" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.predicate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestCase3_Filter_and_Map_on_String">
     <configuration name="CheckEvenOrOddInListUsingFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.predicate.CheckEvenOrOddInListUsingFilter" />
       <module name="java8" />
@@ -186,6 +172,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase3_Filter_and_Map_on_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase3_Filter_and_Map_on_String" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestCase5_Foreach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase5_Foreach" />
       <module name="java8" />
@@ -201,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase3_Filter_and_Map_on_String" />
         <item itemvalue="Application.TestCase5_Foreach" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.SupplierDemo2" />
         <item itemvalue="Application.CheckEvenOrOddInListUsingFilter" />
-        <item itemvalue="Application.CheckEvenOrOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +238,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="24641000" />
+      <workItem from="1727240604200" duration="25365000" />
     </task>
     <servers />
   </component>
