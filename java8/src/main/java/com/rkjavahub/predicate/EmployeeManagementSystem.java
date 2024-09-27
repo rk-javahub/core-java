@@ -1,45 +1,24 @@
 package com.rkjavahub.predicate;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
 import java.util.List;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+@ToString
 class Employee {
     private String name;
     private String designation;
     private int salary;
     private String city;
-
-    public Employee(String name, String designation, int salary, String city) {
-        super();
-        this.name = name;
-        this.designation = designation;
-        this.salary = salary;
-        this.city = city;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public String getDesignation() {
-        return designation;
-    }
-
-    public int getSalary() {
-        return salary;
-    }
-
-    public String getCity() {
-        return city;
-    }
-
-    @Override
-    public String toString() {
-        return "(name=" + name + ", designation=" + designation + ", salary=" + salary + ", city=" + city + ")";
-    }
-
 }
 
 public class EmployeeManagementSystem {

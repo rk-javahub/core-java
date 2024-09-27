@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase2_PredicateJoining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/TestCase4_PredicateToCheckNullAndEmptyStringFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +235,7 @@
       <workItem from="1726633012213" duration="1879000" />
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
-      <workItem from="1727240604200" duration="23025000" />
+      <workItem from="1727240604200" duration="23335000" />
     </task>
     <servers />
   </component>
@@ -286,7 +287,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java</url>
-          <line>49</line>
+          <line>48</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
