@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.rkjavahub.stream;
+package com.rkjavahub.stream.sorting;
 
 import com.rkjavahub.stream.dto.Employee;
 

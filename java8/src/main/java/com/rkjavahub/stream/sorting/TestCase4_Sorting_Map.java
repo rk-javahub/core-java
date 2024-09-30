@@ -1,10 +1,9 @@
 /**
  *
  */
-package com.rkjavahub.stream;
+package com.rkjavahub.stream.sorting;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * @author Rohit
