@@ -23,7 +23,7 @@ public class TestCase5_Foreach {
         ls.add("Pradip");
 
         System.out.println("List elements are: ");
-        ls.stream().forEach(System.out::println);
+        ls.forEach(System.out::println);
 
         System.out.println("---------------- Iterating over map using foreach -----------------------");
         Map<Integer, String> map = new HashMap<Integer, String>();
@@ -34,7 +34,7 @@ public class TestCase5_Foreach {
         map.forEach((key, value) -> System.out.println(key + " " + value));
 
         System.out.println("---------------- Iterating over map using entryset foreach -----------------------");
-        map.entrySet().stream().forEach(System.out::println);
+        map.entrySet().forEach(System.out::println);
 
     }
 }

@@ -32,32 +32,32 @@ public class EmployeeManagementSystem {
         Employee e5 = new Employee("Raj", "Analyst", 60000, "Pune");
         Employee e6 = new Employee("Ratan", "CEO", 5000000, "Banglore");
 
-        List<Employee> employees;
-        employees = Stream.of(e, e1, e2, e3, e4, e5, e6).collect(Collectors.toList());
+        List<Employee> Employee;
+        Employee = Stream.of(e, e1, e2, e3, e4, e5, e6).collect(Collectors.toList());
 
-        // Get employees who have designation as Manager
+        // Get Employee who have designation as Manager
         Predicate<Employee> p1 = emp -> emp.getDesignation().equals("Manager");
-        System.out.println("Employees with designation as Manager are: ");
-        display(p1, employees);
+        System.out.println("Employee with designation as Manager are: ");
+        display(p1, Employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
-        // Get employees who have designation as Manager
+        // Get Employee who have designation as Manager
         Predicate<Employee> p2 = emp -> emp.getCity().equals("Pune");
-        System.out.println("Employees from Pune city are: ");
-        display(p2, employees);
+        System.out.println("Employee from Pune city are: ");
+        display(p2, Employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
-        // Get employees who's salary > 50000
+        // Get Employee who's salary > 50000
         Predicate<Employee> p3 = emp -> emp.getSalary() > 50000;
-        System.out.println("Employees who's salary > 50000 are: ");
-        display(p3, employees);
+        System.out.println("Employee who's salary > 50000 are: ");
+        display(p3, Employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
-        // Get employees who's salary < 50000
+        // Get Employee who's salary < 50000
         Predicate<Employee> p4 = emp -> emp.getSalary() < 50000;
-        System.out.println("Employees who's salary < 50000 are: ");
-        display(p4, employees);
+        System.out.println("Employee who's salary < 50000 are: ");
+        display(p4, Employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
-        // Get employees who are not Manager
-        System.out.println("Employees who are not Managers: ");
-        display(p1.negate(), employees);
+        // Get Employee who are not Manager
+        System.out.println("Employee who are not Managers: ");
+        display(p1.negate(), Employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Check employee name is Rohit or not. (isEqual() come in contract.)
         Predicate<Employee> p5 = Predicate.isEqual(e);
@@ -66,8 +66,8 @@ public class EmployeeManagementSystem {
         System.out.println(p5.test(e7));
     }
 
-    private static void display(Predicate<Employee> p1, List<Employee> employees) {
-        for (Employee e : employees) {
+    private static void display(Predicate<Employee> p1, List<Employee> Employee) {
+        for (Employee e : Employee) {
             if (p1.test(e)) {
                 System.out.println(e);
             }

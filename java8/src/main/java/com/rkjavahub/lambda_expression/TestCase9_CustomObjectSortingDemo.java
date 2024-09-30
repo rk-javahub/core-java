@@ -7,20 +7,20 @@ import java.util.Comparator;
 public class TestCase9_CustomObjectSortingDemo {
 
     public static void main(String[] args) {
-        ArrayList<Employee> al = getEmployees();
+        ArrayList<Employee> al = getEmployee();
 
-        System.out.println("Employees before sorting " + al);
+        System.out.println("Employee before sorting " + al);
 
         al.sort(Comparator.comparing(Employee::getEmpName));
 
-        System.out.println("Employees after sorting based on name " + al);
+        System.out.println("Employee after sorting based on name " + al);
 
         al.sort(Comparator.comparing(Employee::getEmpId));
 
-        System.out.println("Employees after sorting based on employee id " + al);
+        System.out.println("Employee after sorting based on employee id " + al);
     }
 
-    private static ArrayList<Employee> getEmployees() {
+    private static ArrayList<Employee> getEmployee() {
         Employee e = new Employee();
         e.setEmpId(1);
         e.setEmpName("Rohit");
