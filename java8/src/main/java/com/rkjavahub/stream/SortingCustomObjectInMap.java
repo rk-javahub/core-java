@@ -1,9 +1,6 @@
 package com.rkjavahub.stream;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -82,7 +79,7 @@ public class SortingCustomObjectInMap {
 		employees.put(e5, 30);
 		employees.put(e6, 31);
 
-		employees.entrySet().stream().sorted((o1, o2) -> o1.getKey().getName().compareTo(o2.getKey().getName()))
+		employees.entrySet().stream().sorted(Comparator.comparing(o -> o.getKey().getName()))
 				.forEach(System.out::println);
 		
 	

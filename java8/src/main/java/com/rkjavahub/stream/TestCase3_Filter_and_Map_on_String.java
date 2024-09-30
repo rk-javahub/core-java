@@ -50,7 +50,7 @@ public class TestCase3_Filter_and_Map_on_String {
     }
 
     private static void mapStringtoUpperCase(List<String> ls) {
-        List<String> ls1 = ls.stream().map(str -> (str.toUpperCase())).collect(Collectors.toList());
+        List<String> ls1 = ls.stream().map(String::toUpperCase).collect(Collectors.toList());
         System.out.println(ls1);
 
     }

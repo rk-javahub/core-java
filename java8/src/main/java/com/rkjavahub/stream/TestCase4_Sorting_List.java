@@ -4,6 +4,7 @@
 package com.rkjavahub.stream;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -11,7 +12,7 @@ import java.util.stream.Collectors;
  * @author Rohit
  *
  */
-public class TestCase4_Sorting {
+public class TestCase4_Sorting_List {
     public static void main(String[] args) {
         List<Integer> ls = new ArrayList<Integer>();
         ls.add(12);
@@ -26,7 +27,7 @@ public class TestCase4_Sorting {
         System.out.println(ls1);
 
         System.out.println("Customized sorting");
-        List<Integer> ls2 = ls.stream().sorted((i1, i2) -> -i1.compareTo(i2)).collect(Collectors.toList());
+        List<Integer> ls2 = ls.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
         System.out.println(ls2);
     }
 }

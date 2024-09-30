@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_Sorting_Map.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/EmployeeManagementSystemUsingStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/EmployeeManagementSystemUsingStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_MinAndMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_MinAndMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/SortingCustomObjectInMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase3_Filter_and_Map_on_String.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase3_Filter_and_Map_on_String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/TestCase4_Sorting_List.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +90,8 @@
     "Application.TestCase3_Filter_and_Map_on_String.executor": "Run",
     "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
     "Application.TestCase4_Sorting.executor": "Run",
+    "Application.TestCase4_Sorting_List.executor": "Run",
+    "Application.TestCase4_Sorting_Map.executor": "Run",
     "Application.TestCase5_Foreach.executor": "Run",
     "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
     "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
@@ -133,12 +135,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rkjavahub.stream" />
       <recent name="com.rkjavahub.predicate" />
       <recent name="com.rkjavahub.dsa.array.problems" />
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeManagementSystemUsingStream">
+  <component name="RunManager" selected="Application.TestCase4_Sorting_Map">
     <configuration name="EmployeeManagementSystemUsingStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.EmployeeManagementSystemUsingStream" />
       <module name="java8" />
@@ -178,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase3_Filter_and_Map_on_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase3_Filter_and_Map_on_String" />
+    <configuration name="TestCase4_Sorting_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase4_Sorting_List" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
@@ -191,8 +194,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase4_Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase4_Sorting" />
+    <configuration name="TestCase4_Sorting_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.TestCase4_Sorting_Map" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
@@ -206,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCase4_Sorting_Map" />
+        <item itemvalue="Application.TestCase4_Sorting_List" />
         <item itemvalue="Application.EmployeeManagementSystemUsingStream" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.TestCase4_Sorting" />
-        <item itemvalue="Application.TestCase3_Filter_and_Map_on_String" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +248,7 @@
       <workItem from="1727064420406" duration="8910000" />
       <workItem from="1727088337431" duration="67000" />
       <workItem from="1727240604200" duration="29335000" />
-      <workItem from="1727669786882" duration="1552000" />
+      <workItem from="1727669786882" duration="4824000" />
     </task>
     <servers />
   </component>
