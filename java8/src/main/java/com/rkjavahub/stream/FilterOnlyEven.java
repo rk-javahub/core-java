@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * @author Rohit
  *
  */
-public class TestCase1_FilterOnlyEven {
+public class FilterOnlyEven {
 
 	public static void main(String[] args) {
 		List<Integer> ls = new ArrayList<Integer>();

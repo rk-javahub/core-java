@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /**
  * @author Rohit
  */
-public class TestCase3_Filter_and_Map_on_String {
+public class Filter_and_Map_on_String {
 
     public static void main(String[] args) {
         List<String> ls = new ArrayList<String>();

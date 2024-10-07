@@ -8,7 +8,7 @@ import java.util.stream.Collectors;
  * @author Rohit
  *
  */
-public class TestCase2_Map_Multiplication {
+public class Map_Multiplication {
 
 	public static void main(String[] args) {
 		List<Integer> ls = new ArrayList<Integer>();

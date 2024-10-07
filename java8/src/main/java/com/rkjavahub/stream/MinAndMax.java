@@ -10,7 +10,7 @@ import java.util.List;
  * @author Rohit
  *
  */
-public class TestCase4_MinAndMax {
+public class MinAndMax {
     public static void main(String[] args) {
         List<Integer> ls = new ArrayList<Integer>();
         ls.add(12);

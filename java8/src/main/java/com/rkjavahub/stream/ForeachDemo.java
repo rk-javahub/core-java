@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * @author Rohit
  */
-public class TestCase5_Foreach {
+public class ForeachDemo {
     public static void main(String[] args) {
         System.out.println("---------------- Iterating over list using foreach -----------------------");
         List<String> ls = new ArrayList<String>();
