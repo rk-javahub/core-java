@@ -15,7 +15,7 @@ import java.util.stream.Stream;
 /**
  * @author Rohit
  */
-public class TestCase4_Sorting_List {
+public class TestCase1_Sorting_List {
     public static void main(String[] args) {
         naturalObjectSorting();
         customObjectSorting();

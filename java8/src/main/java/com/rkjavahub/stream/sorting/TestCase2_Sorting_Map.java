@@ -1,4 +1,4 @@
-package com.rkjavahub.stream;
+package com.rkjavahub.stream.sorting;
 
 import com.rkjavahub.stream.dto.Employee;
 
@@ -6,9 +6,34 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SortingCustomObjectInMap {
+public class TestCase2_Sorting_Map {
 
     public static void main(String[] args) {
+
+        naturalObjectSorting();
+        customObjectSorting();
+
+
+    }
+
+    private static void naturalObjectSorting() {
+        Map<String,Integer> map = new HashMap<>();
+        map.put("A", 1);
+        map.put("B", 2);
+        map.put("C", 7);
+        map.put("D", 4);
+        map.put("E", 3);
+        map.put("F", 6);
+        map.put("G", 9);
+
+        System.out.println("Sorting by value");
+        map.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(System.out::println);
+
+        System.out.println("Sorting by Key");
+        map.entrySet().stream().sorted(Map.Entry.comparingByKey()).forEach(System.out::println);
+    }
+
+    private static void customObjectSorting() {
         Employee e = new Employee("Rohit", "Java Developer", 70000, "Pune");
         Employee e1 = new Employee("Sachin", "Manager", 90000, "Banglore");
         Employee e2 = new Employee("Vignesh", "Tester", 40000, "Pune");
