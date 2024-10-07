@@ -29,6 +29,9 @@ public class TestCase2_Sorting_Map {
         System.out.println("Sorting by value");
         map.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(System.out::println);
 
+        System.out.println("Sorting by value reversed");
+        map.entrySet().stream().sorted(Map.Entry.comparingByValue()).forEach(System.out::println);
+
         System.out.println("Sorting by Key");
         map.entrySet().stream().sorted(Map.Entry.comparingByKey()).forEach(System.out::println);
     }
