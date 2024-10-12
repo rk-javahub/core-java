@@ -54,25 +54,25 @@ public class TestCase1_Sorting_List {
 
         // Get employee who have designation as Manager
         System.out.println("employee with designation as Manager are: ");
-        employee.stream().filter(p1 -> p1.getDesignation().equals("Manager")).collect(Collectors.toList()).forEach(System.out::println);
+        employee.stream().filter(p1 -> p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who have designation as Manager
         System.out.println("employee from Pune city are: ");
-        employee.stream().filter(p1 -> p1.getCity().equals("Pune")).collect(Collectors.toList()).forEach(System.out::println);
+        employee.stream().filter(p1 -> p1.getCity().equals("Pune")).toList().forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who's salary > 50000
         System.out.println("employee who's salary > 50000 are: ");
-        employee.stream().filter(p1 -> p1.getSalary() > 50000).collect(Collectors.toList()).forEach(System.out::println);
+        employee.stream().filter(p1 -> p1.getSalary() > 50000).toList().forEach(System.out::println);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who's salary < 50000
         System.out.println("employee who's salary < 50000 are: ");
-        employee.stream().filter(p1 -> p1.getSalary() < 50000).collect(Collectors.toList()).forEach(System.out::println);
+        employee.stream().filter(p1 -> p1.getSalary() < 50000).toList().forEach(System.out::println);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who are not Manager
         System.out.println("employee who are not Managers: ");
-        employee.stream().filter(p1 -> !p1.getDesignation().equals("Manager")).collect(Collectors.toList()).forEach(System.out::println);
+        employee.stream().filter(p1 -> !p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
         // display(p1.negate(), employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
@@ -110,14 +110,13 @@ public class TestCase1_Sorting_List {
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("Get employee based on grouping by city: ");
-        Map<Object, List<Employee>> EmployeeMap = employee.stream().collect(Collectors.groupingBy(Employee::getCity));
-        System.out.println(EmployeeMap);
+        employee.stream().collect(Collectors.groupingBy(Employee::getCity)).entrySet().forEach(System.out::println);
+
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("Get employee based on grouping by city and count: ");
-        Map<Object, Long> EmployeeMap1 = employee.stream().collect(Collectors.groupingBy(Employee::getCity, Collectors.counting()));
-        System.out.println(EmployeeMap1);
+        employee.stream().collect(Collectors.groupingBy(Employee::getCity, Collectors.counting())).entrySet().forEach(System.out::println);
 
     }
 }

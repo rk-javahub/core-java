@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ListToMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase2_Sorting_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase2_Sorting_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ArrayOperation/CheckCommonNumbersIn2Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ArrayOperation/CheckCommonNumbersIn2Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ArrayOperation/SecondSmallestElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ArrayOperation/SecondSmallestElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/FindNthHighestSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/FindNthHighestSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase1_Sorting_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase1_Sorting_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/stringoperation/CheckDuplicateWordInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/stringoperation/CheckDuplicateWordInString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,81 +50,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArmstrongNumberDemo.executor": "Run",
-    "Application.ArrayDeleteElement.executor": "Run",
-    "Application.ArrayInsertAtMiddle.executor": "Run",
-    "Application.ArrayResizing.executor": "Run",
-    "Application.ArrayTraversal.executor": "Run",
-    "Application.AverageOfElements.executor": "Run",
-    "Application.BoundedWildCard.executor": "Run",
-    "Application.CallableTest.executor": "Run",
-    "Application.CheckEvenOrOdd.executor": "Run",
-    "Application.CheckEvenOrOddInListUsingFilter.executor": "Run",
-    "Application.ConsumerDemo1.executor": "Run",
-    "Application.DaemonThreadTest.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DynamicArray.executor": "Run",
-    "Application.EmployeeManagementSystemUsingStream.executor": "Run",
-    "Application.FindLargestAndSmallestElement.executor": "Run",
-    "Application.FindMissingNumberInArray.executor": "Debug with VisualVM",
-    "Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor": "Run",
-    "Application.FindSecondMaximumNumberInArray.executor": "Run",
-    "Application.FindSum.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.GenericMethods.executor": "Run",
-    "Application.JoinMethodDemo.executor": "Run",
-    "Application.ListToMap.executor": "Run",
-    "Application.MoveZerosToEnd.executor": "Run",
-    "Application.MultithreadingEnhancedTest1.executor": "Run",
-    "Application.ProducerConsumerProblemTest1.executor": "Run",
-    "Application.RaceConditionTicketBookingTest.executor": "Run",
-    "Application.RemoveEvenFromArray.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SerializationExample.executor": "Run",
-    "Application.SortingCustomObjectInMap.executor": "Run",
-    "Application.StackTraversal.executor": "Run",
-    "Application.SupplierDemo2.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.TestCase10_BlockLambdaExpression.executor": "Run",
-    "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
-    "Application.TestCase2_PredicateJoining.executor": "Run",
-    "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
-    "Application.TestCase3_Filter_and_Map_on_String.executor": "Run",
-    "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
-    "Application.TestCase4_Sorting.executor": "Run",
-    "Application.TestCase4_Sorting_List.executor": "Run",
-    "Application.TestCase4_Sorting_Map.executor": "Run",
-    "Application.TestCase5_Foreach.executor": "Run",
-    "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
-    "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
-    "Application.TestCase7_TreeMapSortingDemo.executor": "Run",
-    "Application.TestCase9_CustomObjectSortingDemo.executor": "Run",
-    "Application.TestGenericClassExtends.executor": "Run",
-    "Application.TestWaitNotifyDemo.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.TryStoringStringInArrayDemo.executor": "Run",
-    "Application.VolatileKeywordDemo.executor": "Run",
-    "Application.forEachDemo.executor": "Run",
-    "Maven.core-java [clean].executor": "Run",
-    "Maven.core-java [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "copyright",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArmstrongNumberDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDeleteElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayInsertAtMiddle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayResizing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundedWildCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckCommonNumbersIn2Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckDuplicateWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEvenOrOddInListUsingFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeManagementSystemUsingStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLargestAndSmallestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMissingNumberInArray.executor&quot;: &quot;Debug with VisualVM&quot;,
+    &quot;Application.FindNthHighestSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSecondMaximumNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListToMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveEvenFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondSmallestElementInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingCustomObjectInMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupplierDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase10_BlockLambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1_Sorting_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1_VoidMethodWithoutArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_PredicateJoining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_VoidMethodWithArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase3_Filter_and_Map_on_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase3_IntMethodWithStringArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase5_Foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase5_MultithreadingRunnableInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase6_ArrayListComparatorInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase7_TreeMapSortingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase9_CustomObjectSortingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestGenericClassExtends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryStoringStringInArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forEachDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core-java [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core-java [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/JAVA/rk-javahub GitHub/core-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\solid\src\main\java\com\rkjavahub" />
@@ -142,13 +151,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListToMap">
-    <configuration name="AverageOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.AverageOfElements" />
+  <component name="RunManager" selected="Application.CheckDuplicateWordInString">
+    <configuration name="CheckCommonNumbersIn2Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ArrayOperation.CheckCommonNumbersIn2Arrays" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
+          <option name="PATTERN" value="com.rkjavahub.stream.ArrayOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForeachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ForeachDemo" />
+    <configuration name="CheckDuplicateWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.stringoperation.CheckDuplicateWordInString" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
+          <option name="PATTERN" value="com.rkjavahub.stream.stringoperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +178,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ListToMap" />
+    <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.FindNthHighestSalary" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.rkjavahub.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondSmallestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ArrayOperation.SecondSmallestElementInArray" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.stream.ArrayOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,39 +217,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2_Sorting_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.sorting.TestCase2_Sorting_Map" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase2_Sorting_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.sorting.TestCase2_Sorting_Map" />
-      <module name="java8" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListToMap" />
+        <item itemvalue="Application.CheckDuplicateWordInString" />
+        <item itemvalue="Application.CheckCommonNumbersIn2Arrays" />
+        <item itemvalue="Application.SecondSmallestElementInArray" />
         <item itemvalue="Application.TestCase1_Sorting_List" />
-        <item itemvalue="Application.AverageOfElements" />
-        <item itemvalue="Application.ForeachDemo" />
-        <item itemvalue="Application.TestCase2_Sorting_Map" />
+        <item itemvalue="Application.FindNthHighestSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +259,12 @@
       <workItem from="1727088337431" duration="67000" />
       <workItem from="1727240604200" duration="29335000" />
       <workItem from="1727669786882" duration="13169000" />
-      <workItem from="1728276484717" duration="3113000" />
+      <workItem from="1728276484717" duration="7653000" />
+      <workItem from="1728444961716" duration="4068000" />
+      <workItem from="1728451407954" duration="186000" />
+      <workItem from="1728451803213" duration="21000" />
+      <workItem from="1728622120178" duration="10254000" />
+      <workItem from="1728736324991" duration="1385000" />
     </task>
     <servers />
   </component>

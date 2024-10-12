@@ -28,7 +28,7 @@ public class ListToMap {
         employees.add(e6);
 
 
-        Map employeeMap = employees.stream().collect(Collectors.toMap(Employee::getName, Function.identity()));
+        Map<String, Employee> employeeMap = employees.stream().collect(Collectors.toMap(Employee::getName, Function.identity()));
         employeeMap.forEach((k, v) -> System.out.println(k + ": " + v));
 
     }
