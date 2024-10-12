@@ -41,83 +41,88 @@ public class TestCase1_Sorting_List {
 
 
     private static void customObjectSorting() {
-        Employee e = new Employee("Rohit", "Java Developer", 70000, "Pune");
-        Employee e1 = new Employee("Sachin", "Manager", 90000, "Banglore");
-        Employee e2 = new Employee("Vignesh", "Tester", 40000, "Pune");
-        Employee e3 = new Employee("Radhika", "Java Developer", 70000, "Hyderabad");
-        Employee e4 = new Employee("Aayush", "QA", 50000, "Chennai");
-        Employee e5 = new Employee("Raj", "Analyst", 60000, "Pune");
-        Employee e6 = new Employee("Ratan", "CEO", 5000000, "Banglore");
+        Employee e = new Employee("Rohit", "Java Developer","IT", 70000, "Pune");
+        Employee e1 = new Employee("Sachin", "Manager", "IT",90000, "Banglore");
+        Employee e2 = new Employee("Vignesh", "Tester", "IT",40000, "Pune");
+        Employee e3 = new Employee("Radhika", "Java Developer", "IT",70000, "Hyderabad");
+        Employee e4 = new Employee("Aayush", "QA", "Quality",50000, "Chennai");
+        Employee e5 = new Employee("Raj", "Analyst", "Quality",60000, "Pune");
+        Employee e6 = new Employee("Ratan", "CEO","Management", 5000000, "Banglore");
+        
 
-        List<Employee> employee;
-        employee = Stream.of(e, e1, e2, e3, e4, e5, e6).toList();
+        List<Employee> employees;
+        employees = Stream.of(e, e1, e2, e3, e4, e5, e6).toList();
 
         // Get employee who have designation as Manager
         System.out.println("employee with designation as Manager are: ");
-        employee.stream().filter(p1 -> p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
+        employees.stream().filter(p1 -> p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who have designation as Manager
         System.out.println("employee from Pune city are: ");
-        employee.stream().filter(p1 -> p1.getCity().equals("Pune")).toList().forEach(System.out::println);
+        employees.stream().filter(p1 -> p1.getCity().equals("Pune")).toList().forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who's salary > 50000
         System.out.println("employee who's salary > 50000 are: ");
-        employee.stream().filter(p1 -> p1.getSalary() > 50000).toList().forEach(System.out::println);
+        employees.stream().filter(p1 -> p1.getSalary() > 50000).toList().forEach(System.out::println);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who's salary < 50000
         System.out.println("employee who's salary < 50000 are: ");
-        employee.stream().filter(p1 -> p1.getSalary() < 50000).toList().forEach(System.out::println);
+        employees.stream().filter(p1 -> p1.getSalary() < 50000).toList().forEach(System.out::println);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
         // Get employee who are not Manager
         System.out.println("employee who are not Managers: ");
-        employee.stream().filter(p1 -> !p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
+        employees.stream().filter(p1 -> !p1.getDesignation().equals("Manager")).toList().forEach(System.out::println);
         // display(p1.negate(), employee);
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         // Sorting employee based on name
         System.out.println("employee sorting based on employee name way 1: ");
-        employee.stream().sorted(Comparator.comparing(Employee::getName)).forEach(System.out::println);
+        employees.stream().sorted(Comparator.comparing(Employee::getName)).forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("employee sorting based on employee salary way 1: ");
-        employee.stream().sorted(Comparator.comparingInt(Employee::getSalary)).forEach(System.out::println);
+        employees.stream().sorted(Comparator.comparingInt(Employee::getSalary)).forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("employee sorting based on employee name way 2 using method reference: ");
-        employee.stream().sorted(Comparator.comparing(Employee::getName)).forEach(System.out::println);
+        employees.stream().sorted(Comparator.comparing(Employee::getName)).forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         // Sorting employee based on name descending
         System.out.println("employee sorting based on employee name descending: ");
         System.out.println("---- One way ----");
-        employee.stream().sorted((o1, o2) -> o2.getName().compareTo(o1.getName())).forEach(System.out::println);
+        employees.stream().sorted((o1, o2) -> o2.getName().compareTo(o1.getName())).forEach(System.out::println);
         System.out.println("---- Second way ----");
-        employee.stream().sorted(Comparator.comparing(Employee::getName).reversed()).forEach(System.out::println);
+        employees.stream().sorted(Comparator.comparing(Employee::getName).reversed()).forEach(System.out::println);
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         // Get employee based on location and sort by salary ascending
         System.out.println("Get employee based on lacation and sorting based on salary descending: ");
-        employee.stream().filter(l -> l.getCity().equals("Pune")).sorted(Comparator.comparingInt(Employee::getSalary).reversed()).forEach(System.out::println);
+        employees.stream().filter(l -> l.getCity().equals("Pune")).sorted(Comparator.comparingInt(Employee::getSalary).reversed()).forEach(System.out::println);
 
         // Group employee based on city
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("Get employee based on grouping by city: ");
-        employee.stream().collect(Collectors.groupingBy(Employee::getCity)).entrySet().forEach(System.out::println);
+        employees.stream().collect(Collectors.groupingBy(Employee::getCity)).entrySet().forEach(System.out::println);
 
 
         System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
 
         System.out.println("Get employee based on grouping by city and count: ");
-        employee.stream().collect(Collectors.groupingBy(Employee::getCity, Collectors.counting())).entrySet().forEach(System.out::println);
+        employees.stream().collect(Collectors.groupingBy(Employee::getCity, Collectors.counting())).entrySet().forEach(System.out::println);
+
+        System.out.println("--------------------------------------------------------------------------------------------------------------------------------------------------------");
+
+        System.out.println("Get employee with highest salary based on department: ");
+        employees.stream().max(Comparator.comparing(Employee::getSalary)).ifPresent(System.out::println);
 
     }
 }
-

@@ -12,6 +12,7 @@ import lombok.ToString;
 public class Employee {
     private String name;
     private String designation;
+    private String department;
     private int salary;
     private String city;
 }
