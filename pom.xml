@@ -15,6 +15,7 @@
         <module>interview-program</module>
         <module>dsa</module>
         <module>solid</module>
+        <module>EmpManagement</module>
     </modules>
 
     <properties>

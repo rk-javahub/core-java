@@ -5,11 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/ListToMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/dto/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/dto/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase1_Sorting_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase1_Sorting_List.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase2_Sorting_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/sorting/TestCase2_Sorting_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/AsusComputers.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/AsusComputers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/DesktopManufacturingFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/DesktopManufacturingFacility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/LaptopManufacturingFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/LaptopManufacturingFacility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AccountFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/AccountFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CarLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/CarLoan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/FactoryCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/FactoryCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/HomeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/HomeLoan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/LoanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/LoanFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/PersonalLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/PersonalLoan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SalaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/SalaryAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/SavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/AccountFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/AccountFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/CurrentAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/FactoryUML.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/FactoryUML.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/SalaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/SalaryAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/SavingAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/SingletonUML.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/SingletonUML.ucls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +93,7 @@
     "Application.DaemonThreadTest.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.DynamicArray.executor": "Run",
+    "Application.EmployeeManagement.executor": "Run",
     "Application.EmployeeManagementSystemUsingStream.executor": "Run",
     "Application.FindLargestAndSmallestElement.executor": "Run",
     "Application.FindMissingNumberInArray.executor": "Debug with VisualVM",
@@ -125,6 +153,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "copyright",
     "vue.rearranger.settings.migration": "true"
   }
@@ -150,13 +181,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestCase1_Sorting_List">
-    <configuration name="CheckCommonNumbersIn2Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ArrayOperation.CheckCommonNumbersIn2Arrays" />
-      <module name="java8" />
+  <component name="RunManager" selected="Application.ArmstrongNumberDemo">
+    <configuration name="ArmstrongNumberDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.basic.ArmstrongNumberDemo" />
+      <module name="interview-program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.ArrayOperation.*" />
+          <option name="PATTERN" value="com.rkjavahub.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckDuplicateWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.stringoperation.CheckDuplicateWordInString" />
-      <module name="java8" />
+    <configuration name="EmployeeManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="service.EmployeeManagement" />
+      <module name="EmpManagement" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.stringoperation.*" />
+          <option name="PATTERN" value="service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,21 +249,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArmstrongNumberDemo" />
+        <item itemvalue="Application.EmployeeManagement" />
         <item itemvalue="Application.TestCase1_Sorting_List" />
         <item itemvalue="Application.TestCase2_Sorting_Map" />
         <item itemvalue="Application.ListToMap" />
-        <item itemvalue="Application.CheckDuplicateWordInString" />
-        <item itemvalue="Application.CheckCommonNumbersIn2Arrays" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -263,7 +286,12 @@
       <workItem from="1728451407954" duration="186000" />
       <workItem from="1728451803213" duration="21000" />
       <workItem from="1728622120178" duration="10254000" />
-      <workItem from="1728736324991" duration="3127000" />
+      <workItem from="1728736324991" duration="3767000" />
+      <workItem from="1728885332771" duration="1442000" />
+      <workItem from="1728891363582" duration="2845000" />
+      <workItem from="1728903005306" duration="640000" />
+      <workItem from="1728967444880" duration="2108000" />
+      <workItem from="1729685783179" duration="91000" />
     </task>
     <servers />
   </component>
@@ -312,6 +340,11 @@
           <url>file://$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/predicate/EmployeeManagementSystem.java</url>
           <line>28</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EmpManagement/src/main/java/service/EmployeeManagement.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindMissingNumberInArray.java</url>
