@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 class Producer1 implements Runnable {
-	private List<Integer> sharedQueue;
+	private final List<Integer> sharedQueue;
 	private int maxSize = 2; // Maximum number of products sharedQueue can hold at a time
 
 	public Producer1(List<Integer> sharedQueue) {

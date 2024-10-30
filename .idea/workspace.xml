@@ -5,38 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/AsusComputers.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/AsusComputers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/DesktopManufacturingFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/DesktopManufacturingFacility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/LaptopManufacturingFacility.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/LaptopManufacturingFacility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/BehaviouralPattern/com/pattern/template_method/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/behavioural/template_methode/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/AccountFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/AccountFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CarLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/CarLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/FactoryCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/FactoryCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/HomeLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/HomeLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Loan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/LoanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/LoanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/PersonalLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/PersonalLoan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SalaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/SalaryAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/abstractfactory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/abstractfactory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/AccountFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/AccountFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/CurrentAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/FactoryUML.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/FactoryUML.ucls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/SalaryAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/SalaryAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/SavingAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/SavingAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/factory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/factory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/SingletonUML.ucls" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/SingletonUML.ucls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/CreationalPattern/com/pattern/singleton/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/interview-program/src/main/java/com/rkjavahub/basic/ArmstrongNumberDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerProblemTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerProblemTest1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +118,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/core-java",
+    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/amazon-microservice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -181,7 +152,7 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArmstrongNumberDemo">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ArmstrongNumberDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.rkjavahub.basic.ArmstrongNumberDemo" />
       <module name="interview-program" />
@@ -208,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.ListToMap" />
-      <module name="java8" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.creational.singleton.Test" />
+      <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.*" />
+          <option name="PATTERN" value="com.rkjavahub.creational.singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,11 +220,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArmstrongNumberDemo" />
         <item itemvalue="Application.EmployeeManagement" />
         <item itemvalue="Application.TestCase1_Sorting_List" />
         <item itemvalue="Application.TestCase2_Sorting_Map" />
-        <item itemvalue="Application.ListToMap" />
       </list>
     </recent_temporary>
   </component>
