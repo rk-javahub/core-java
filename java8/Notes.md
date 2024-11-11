@@ -1,4 +1,4 @@
-# Java 8 Notes 
+# Java 8 Notes #
 
 ### Lambda Expression
 1. Calling void method without arguments    
@@ -43,8 +43,13 @@
    }
    return fact;
    };
-9. 
 
+### Functional Interfaces
+1. Consumer functional interface (Represents an operation that accepts a single input argument and returns no result. contains method accept())   
+   Consumer<Integer> consumer = a -> System.out.println("Printing : " + a);
+   consumer.accept(10);
+
+2. 
 
 
 
