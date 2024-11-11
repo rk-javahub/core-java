@@ -9,11 +9,11 @@
    Interf1 i1 = (a, b) -> System.out.println("Using lambda expression approach sum=" + (a + b));
    i1.add(10, 20);
 
-3. Calling int method with string arguments
+3. Calling int method with string arguments   
    Interf2 i2 = String::length;
    System.out.println("String length using lambda expression approach is " + i2.length("Sachin"));
 
-4. Multithreading Runnable Interface
+4. Multithreading Runnable Interface   
    Runnable r1 = () -> {
    for (int i = 0; i < 5; i++) {
    System.out.println("Child thread");
@@ -25,17 +25,17 @@
    }
    };
 
-5. ArrayList comparator interface
+5. ArrayList comparator interface   
    al.sort(Integer::compareTo);
    al.sort(Comparator.reverseOrder());
 
-6. Sort employees based on name
+6. Sort employees based on name   
    al.sort(Comparator.comparing(Employee::getEmpName));
 
-7. Sort employees based on ID
+7. Sort employees based on ID   
    al.sort(Comparator.comparing(Employee::getEmpId));
 
-8. Block lambda expression
+8. Block lambda expression   
    Factorial factorial = (int a) -> {
    int fact = 1;
    for (int i = 1; i <= a; i++) {
