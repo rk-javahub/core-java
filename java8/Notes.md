@@ -1,7 +1,7 @@
 # Java 8 Notes 
 
 ### Lambda Expression
-1. Calling void method without arguments
+1. Calling void method without arguments    
    Interf i1 = () -> System.out.println("Method m1 called using lambda expression.");
    i1.m1();
 
@@ -29,7 +29,21 @@
    al.sort(Integer::compareTo);
    al.sort(Comparator.reverseOrder());
 
-6. 
+6. Sort employees based on name
+   al.sort(Comparator.comparing(Employee::getEmpName));
+
+7. Sort employees based on ID
+   al.sort(Comparator.comparing(Employee::getEmpId));
+
+8. Block lambda expression
+   Factorial factorial = (int a) -> {
+   int fact = 1;
+   for (int i = 1; i <= a; i++) {
+   fact = fact * i;
+   }
+   return fact;
+   };
+9. 
 
 
 
