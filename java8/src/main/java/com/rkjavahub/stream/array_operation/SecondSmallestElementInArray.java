@@ -1,4 +1,4 @@
-package com.rkjavahub.stream.ArrayOperation;
+package com.rkjavahub.stream.array_operation;
 
 import java.util.Arrays;
 

@@ -60,11 +60,27 @@
 
 
 
-### Stream API 
+### Printing using foreach 
 1. Print objects using foreach  <br/>
 -> ls.forEach(System.out::println); // For List <br/>
 -> map.forEach((key, value) -> System.out.println(key + " " + value)); // For Map  <br/>
 -> map.entrySet().forEach(System.out::println); // For Map using EntrySet  <br/>
 
 
-2.
+### Stream API 
+1. filter method 
+   1. filter employee based on department
+      employees.stream().filter(emp -> emp.getDept().equals("Development")).toList().forEach(System.out::println);
+   2. filter employee based on department and salary and store in map
+      Map<String, Double> empleeMap = employees.stream().filter(emp -> emp.getDept().equals("Development") && emp.getSalary() > 80000).collect(Collectors.toMap(Employee::getName, Employee::getSalary));
+
+2. map method (Get only names of employee)
+   employees.stream().map(Employee::getName).forEach(System.out::println);
+
+3. distinct method (Get distinct department names)
+   employees.stream().map(Employee::getDept).distinct().forEach(System.out::println);
+
+4. flatmap method (To get nested records. Here we are getting nested project class details inside employee class)
+   employees.stream().flatMap(e -> e.getProjects().stream().map(Project::getName)).distinct().forEach(System.out::println);
+
+5. 

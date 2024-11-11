@@ -1,4 +1,4 @@
-package com.rkjavahub.stream.all_methods;
+package com.rkjavahub.stream.all_methods.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

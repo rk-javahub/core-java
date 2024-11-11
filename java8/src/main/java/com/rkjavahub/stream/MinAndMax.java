@@ -8,7 +8,6 @@ import java.util.List;
 
 /**
  * @author Rohit
- *
  */
 public class MinAndMax {
     public static void main(String[] args) {

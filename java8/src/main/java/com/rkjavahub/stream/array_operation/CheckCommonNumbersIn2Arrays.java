@@ -1,8 +1,6 @@
-package com.rkjavahub.stream.ArrayOperation;
+package com.rkjavahub.stream.array_operation;
 
 import java.util.Arrays;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class CheckCommonNumbersIn2Arrays {
     public static void main(String[] args) {
