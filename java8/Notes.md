@@ -53,7 +53,10 @@
    Predicate<Integer> predicate = i -> i % 2 == 0;
    System.out.println("Number is even : " + predicate.test(13)); // return true or false
 
-3. 
+3. Supplier functional interface (Represents a supplier of results. This is a functional interface whose functional method is get().)  
+   Supplier<String> supplier = () -> "Hello Rohit";
+   System.out.println(supplier.get());
+4. 
 
 
 
