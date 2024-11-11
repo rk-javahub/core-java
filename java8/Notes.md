@@ -5,7 +5,7 @@
    Interf i1 = () -> System.out.println("Method m1 called using lambda expression.");
    i1.m1();
 
-2. Calling method with arguments
+2. Calling method with arguments  
    Interf1 i1 = (a, b) -> System.out.println("Using lambda expression approach sum=" + (a + b));
    i1.add(10, 20);
 
