@@ -71,6 +71,7 @@
 1. filter method 
    1. filter employee based on department
       employees.stream().filter(emp -> emp.getDept().equals("Development")).toList().forEach(System.out::println);
+   
    2. filter employee based on department and salary and store in map
       Map<String, Double> empleeMap = employees.stream().filter(emp -> emp.getDept().equals("Development") && emp.getSalary() > 80000).collect(Collectors.toMap(Employee::getName, Employee::getSalary));
 
@@ -83,4 +84,27 @@
 4. flatmap method (To get nested records. Here we are getting nested project class details inside employee class)
    employees.stream().flatMap(e -> e.getProjects().stream().map(Project::getName)).distinct().forEach(System.out::println);
 
-5. 
+5. sorting method
+   1. ascending order (sort employees based on salary in ascending order)
+      employees.stream().sorted(Comparator.comparing(Employee::getSalary)).toList().forEach(System.out::println);
+   
+   2. descending order (sort employees based on salary in descending order)
+      employees.stream().sorted(Collections.reverseOrder(Comparator.comparing(Employee::getSalary))).toList().forEach(System.out::println);
+   
+6. max method (Get employee with maximum salary)
+   Optional<Employee> highestPaidEmployee = employees.stream().max(Comparator.comparing(Employee::getSalary));
+
+7. min method (Get employee with minimum salary)
+   Optional<Employee> lowesttPaidEmployee = employees.stream().min(Comparator.comparing(Employee::getSalary));
+
+8. grouping by
+   1. Group by gender
+      Map<String, List<Employee>> groupEmployee = employees.stream().collect(Collectors.groupingBy(Employee::getGender));  
+   
+   2.  Group by gender and display gender and name only
+       Map<String, List<String>> groupEmployee1 = employees.stream().collect(Collectors.groupingBy(Employee::getGender, Collectors.mapping(Employee::getName, Collectors.toList())));   
+   
+   3. Group by gender and display gender and number of employees with that gender
+      Map<String, Long> groupEmployee2 = employees.stream().collect(Collectors.groupingBy(Employee::getGender, Collectors.counting()));
+   
+9. 

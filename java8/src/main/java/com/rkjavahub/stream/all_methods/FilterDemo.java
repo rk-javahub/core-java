@@ -4,10 +4,7 @@ import com.rkjavahub.stream.all_methods.dto.Employee;
 import com.rkjavahub.stream.all_methods.dto.EmployeeDataBase;
 import com.rkjavahub.stream.all_methods.dto.Project;
 
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 /*
@@ -43,6 +40,29 @@ public class FilterDemo {
 
         System.out.println("------------------ Getting employee based on salary in descending order using sorted() -------------------------");
         employees.stream().sorted(Collections.reverseOrder(Comparator.comparing(Employee::getSalary))).toList().forEach(System.out::println);
+
+        // max method
+        System.out.println("------------------ Getting employee with highest salary -------------------------");
+        Optional<Employee> highestPaidEmployee = employees.stream().max(Comparator.comparing(Employee::getSalary));
+        System.out.println(highestPaidEmployee);
+
+        // min method
+        System.out.println("------------------ Getting employee with lowet salary -------------------------");
+        Optional<Employee> lowesttPaidEmployee = employees.stream().min(Comparator.comparing(Employee::getSalary));
+        System.out.println(lowesttPaidEmployee);
+
+        // grouping by gender
+        System.out.println("------------------ Group by gender -------------------------");
+        Map<String, List<Employee>> groupEmployee = employees.stream().collect(Collectors.groupingBy(Employee::getGender));
+        System.out.println(groupEmployee);
+
+        System.out.println("------------------ Group by gender and display gender and name only -------------------------");
+        Map<String, List<String>> groupEmployee1 = employees.stream().collect(Collectors.groupingBy(Employee::getGender, Collectors.mapping(Employee::getName, Collectors.toList())));
+        System.out.println(groupEmployee1);
+
+        System.out.println("------------------ Group by gender and display gender and number of employees with that gender -------------------------");
+        Map<String, Long> groupEmployee2 = employees.stream().collect(Collectors.groupingBy(Employee::getGender, Collectors.counting()));
+        System.out.println(groupEmployee2);
 
 
     }
