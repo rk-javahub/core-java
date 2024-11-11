@@ -49,7 +49,7 @@
    Consumer<Integer> consumer = a -> System.out.println("Printing : " + a);
    consumer.accept(10);
 
-2. Predicate functional interface (Represents a predicate (boolean-valued function) of one argument. This is a functional interface whose functional method is test(Object).)
+2. Predicate functional interface (Represents a predicate (boolean-valued function) of one argument. This is a functional interface whose functional method is test(Object).)    
    Predicate<Integer> predicate = i -> i % 2 == 0;
    System.out.println("Number is even : " + predicate.test(13)); // return true or false
 
