@@ -2,6 +2,7 @@ package com.rkjavahub.stream;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
@@ -33,6 +34,14 @@ public class Filter_and_Map_on_String {
         System.out.println("\nPrint names which start with 'R'");
         printNamesStartWithR(ls);
 
+        System.out.println("\nCount number of characters in words of string");
+        printNumberOfCharactersInWordsString(ls);
+
+    }
+
+    private static void printNumberOfCharactersInWordsString(List<String> ls) {
+        Map<String, Integer> collect = ls.stream().collect(Collectors.toMap(word -> word, String::length));
+        System.out.println(collect);
     }
 
     private static void printNamesStartWithR(List<String> ls) {
