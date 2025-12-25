@@ -15,7 +15,7 @@
         <module>interview-program</module>
         <module>dsa</module>
         <module>solid</module>
-        <module>java_new_features</module>
+        <module>java_new_versions</module>
     </modules>
 
     <properties>
