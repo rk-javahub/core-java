@@ -1,15 +1,13 @@
 package com.rkjavahub.serialization;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.Serializable;
+import lombok.Setter;
+
+import java.io.*;
 
 class User implements Serializable {
 	private String username;
-	private String password;
+	@Setter
+    private String password;
 
 	public String getUsername() {
 		return username;
@@ -23,11 +21,8 @@ class User implements Serializable {
 		return password;
 	}
 
-	public void setPassword(String password) {
-		this.password = password;
-	}
-
-	private void writeObject(ObjectOutputStream os) {
+    @Serial
+    private void writeObject(ObjectOutputStream os) {
 		System.out.println("In, writeObject() method.");
 		try {
 			os.writeObject(this.username);
@@ -37,7 +32,8 @@ class User implements Serializable {
 		}
 	}
 
-	private void readObject(ObjectInputStream ois) {
+	@Serial
+    private void readObject(ObjectInputStream ois) {
 		System.out.println("In, readObject() method.");
 		try {
 			username = (String) ois.readObject();
