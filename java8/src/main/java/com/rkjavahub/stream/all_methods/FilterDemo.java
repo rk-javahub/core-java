@@ -32,7 +32,7 @@ public class FilterDemo {
         // distinct method
         System.out.println("------------------ Getting only employee department using map() -------------------------");
         employees.stream().map(Employee::getDept).distinct().forEach(System.out::println);
-        System.out.println("\n");
+        System.out.println("\n");   
 
         // flatmap method
         System.out.println("------------------ Getting project names for employee flatmap() -------------------------");

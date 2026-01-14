@@ -1,3 +1,5 @@
+package src.main.java;
+
 import java.util.Optional;
 
 public class StringUtilChanges {

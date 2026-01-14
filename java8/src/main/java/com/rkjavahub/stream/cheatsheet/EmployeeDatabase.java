@@ -1,9 +1,9 @@
-package com.rkjavahub.stream.all_methods.dto;
+package com.rkjavahub.stream.cheatsheet;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class EmployeeDataBase {
+public class EmployeeDatabase {
     public static List<Employee> getAllEmployees() {
         Project p1 = new Project("P001", "Alpha", "ABC Corp", "Alice");
         Project p2 = new Project("P002", "Beta", "XYZ Ltd", "Bob");
