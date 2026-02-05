@@ -60,7 +60,7 @@ public class FilterDemo {
         System.out.println("\n");
 
         // min method
-        System.out.println("------------------ Getting employee with lowet salary -------------------------");
+        System.out.println("------------------ Getting employee with lowest salary -------------------------");
         Optional<Employee> lowesttPaidEmployee = employees.stream().min(Comparator.comparing(Employee::getSalary));
         System.out.println(lowesttPaidEmployee);
         System.out.println("\n");

@@ -1,7 +1,6 @@
 package com.rkjavahub.creational.singleton;
 
-public class
-Logger implements Cloneable {
+public class Logger implements Cloneable {
     // Only instance of class
     private static volatile Logger logger;
     private String logMessage;

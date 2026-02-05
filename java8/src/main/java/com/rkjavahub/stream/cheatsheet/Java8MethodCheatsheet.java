@@ -1,6 +1,9 @@
 package com.rkjavahub.stream.cheatsheet;
 
-import java.util.*;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import static com.rkjavahub.stream.cheatsheet.EmployeeDatabase.getAllEmployees;
@@ -13,13 +16,13 @@ public class Java8MethodCheatsheet {
         List<Employee> employees = getAllEmployees();
 
         // 1 - Print all employee names and departments
-       // System.out.println("All Employees name and department using foreach");
+        // System.out.println("All Employees name and department using foreach");
         //employees.forEach(e -> System.out.println(e.name() + " - " + e.department()));
 
-       // System.out.println("\n");
+        // System.out.println("\n");
 
         // 2 - Print all employee names based on department "Development"
-       // System.out.println("Employees in Development Department:");
+        // System.out.println("Employees in Development Department:");
         //employees.stream().filter(e -> e.department().equals("Development")).toList().forEach(System.out::println);
 
         long employeeSet = employees.stream().filter(e -> e.department().startsWith("D") && e.salary() > 15000).collect(Collectors.toSet()).size();
@@ -35,7 +38,6 @@ public class Java8MethodCheatsheet {
 
         Optional<Employee> max = employees.stream().max(Comparator.comparingDouble(Employee::salary));
         System.out.println(max.get());
-
 
     }
 }

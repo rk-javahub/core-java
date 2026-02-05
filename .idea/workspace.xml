@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="Code package update">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/CustomSerialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/serialization/CustomSerialization.java" afterDir="false" />
+    <list default="true" id="8c37a136-112f-48f4-8265-f82f14655f9e" name="Changes" comment="java 8 changes added">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/rkjavahub/creational/singleton/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/PracticeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/PracticeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/all_methods/FilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/all_methods/FilterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/cheatsheet/Java8MethodCheatsheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/java8/src/main/java/com/rkjavahub/stream/cheatsheet/Java8MethodCheatsheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerWithWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/multithreading_concurrency/multithreading/ProducerConsumerWithWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +25,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -46,94 +53,111 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArmstrongNumberDemo.executor": "Run",
-    "Application.ArrayDeleteElement.executor": "Run",
-    "Application.ArrayInsertAtMiddle.executor": "Run",
-    "Application.ArrayResizing.executor": "Run",
-    "Application.ArrayTraversal.executor": "Run",
-    "Application.AverageOfElements.executor": "Run",
-    "Application.BoundedWildCard.executor": "Run",
-    "Application.CallableTest.executor": "Run",
-    "Application.CheckCommonNumbersIn2Arrays.executor": "Run",
-    "Application.CheckDuplicateWordInString.executor": "Run",
-    "Application.CheckEvenOrOdd.executor": "Run",
-    "Application.CheckEvenOrOddInListUsingFilter.executor": "Run",
-    "Application.ConsumerDemo1.executor": "Run",
-    "Application.DaemonThreadTest.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DynamicArray.executor": "Run",
-    "Application.EmployeeManagement.executor": "Run",
-    "Application.EmployeeManagementSystemUsingStream.executor": "Run",
-    "Application.FindLargestAndSmallestElement.executor": "Run",
-    "Application.FindMissingNumberInArray.executor": "Debug with VisualVM",
-    "Application.FindNthHighestSalary.executor": "Run",
-    "Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor": "Run",
-    "Application.FindSecondMaximumNumberInArray.executor": "Run",
-    "Application.FindSum.executor": "Run",
-    "Application.FizzBuzz.executor": "Run",
-    "Application.GenericMethods.executor": "Run",
-    "Application.JoinMethodDemo.executor": "Run",
-    "Application.ListToMap.executor": "Run",
-    "Application.MoveZerosToEnd.executor": "Run",
-    "Application.MultithreadingEnhancedTest1.executor": "Run",
-    "Application.ProducerConsumerProblemTest1.executor": "Run",
-    "Application.RaceConditionTicketBookingTest.executor": "Run",
-    "Application.RemoveEvenFromArray.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.SecondSmallestElementInArray.executor": "Run",
-    "Application.SerializationExample.executor": "Run",
-    "Application.SortingCustomObjectInMap.executor": "Run",
-    "Application.StackTraversal.executor": "Run",
-    "Application.SupplierDemo2.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Test1.executor": "Run",
-    "Application.TestCase10_BlockLambdaExpression.executor": "Run",
-    "Application.TestCase1_Sorting_List.executor": "Run",
-    "Application.TestCase1_VoidMethodWithoutArgument.executor": "Run",
-    "Application.TestCase2_PredicateJoining.executor": "Run",
-    "Application.TestCase2_Sorting_Map.executor": "Run",
-    "Application.TestCase2_VoidMethodWithArgument.executor": "Run",
-    "Application.TestCase3_Filter_and_Map_on_String.executor": "Run",
-    "Application.TestCase3_IntMethodWithStringArgument.executor": "Run",
-    "Application.TestCase4_Sorting.executor": "Run",
-    "Application.TestCase4_Sorting_List.executor": "Run",
-    "Application.TestCase4_Sorting_Map.executor": "Run",
-    "Application.TestCase5_Foreach.executor": "Run",
-    "Application.TestCase5_MultithreadingRunnableInterface.executor": "Run",
-    "Application.TestCase6_ArrayListComparatorInterface.executor": "Run",
-    "Application.TestCase7_TreeMapSortingDemo.executor": "Run",
-    "Application.TestCase9_CustomObjectSortingDemo.executor": "Run",
-    "Application.TestGenericClassExtends.executor": "Run",
-    "Application.TestWaitNotifyDemo.executor": "Run",
-    "Application.ThreadDemo.executor": "Run",
-    "Application.TryStoringStringInArrayDemo.executor": "Run",
-    "Application.VolatileKeywordDemo.executor": "Run",
-    "Application.forEachDemo.executor": "Run",
-    "Maven.core-java [clean].executor": "Run",
-    "Maven.core-java [install].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "F:/JAVA/rk-javahub GitHub/amazon-microservice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "copyright",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AnagramString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNumberDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDeleteElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayInsertAtMiddle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayResizing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AverageOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BoundedWildCard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CallableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckCommonNumbersIn2Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckDuplicateWordInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEvenOrOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckEvenOrOddInListUsingFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentModificationExceptionArraylistDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArrayListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThreadTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DynamicArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeManagement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeManagementSystemUsingStream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FilterDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindLargestAndSmallestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMissingNumberInArray.executor&quot;: &quot;Debug with VisualVM&quot;,
+    &quot;Application.FindNthHighestSalary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPeakElementWhichIsNotSmallerThanNeighbours.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSecondMaximumNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IdentityHashmapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java8MethodCheatsheet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JoinMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListToMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MapTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZerosToEnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultithreadingEnhancedTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblemTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RaceConditionTicketBookingTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveEvenFromArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondSmallestElementInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SerializationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortingCustomObjectInMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StackTraversal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SupplierDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase10_BlockLambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1_Sorting_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase1_VoidMethodWithoutArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_PredicateJoining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_Sorting_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase2_VoidMethodWithArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase3_Filter_and_Map_on_String.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase3_IntMethodWithStringArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase4_Sorting_Map.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase5_Foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase5_MultithreadingRunnableInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase6_ArrayListComparatorInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase7_TreeMapSortingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCase9_CustomObjectSortingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestGenericClassExtends.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestWaitNotifyDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeSetEmployeeComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreesetDemo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreesetDemo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreesetDemo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryStoringStringInArrayDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VolatileKeywordDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forEachDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core-java [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.core-java [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kumbh/IdeaProjects/core-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kumbh/IdeaProjects/core-java/demo/src/main/java/com/rkjavahub/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\JAVA\rk-javahub GitHub\core-java\solid\src\main\java\com\rkjavahub" />
@@ -155,13 +179,13 @@
       <recent name="com.rkjavahub.dsa.array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="ArmstrongNumberDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.basic.ArmstrongNumberDemo" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.String.com.string.demo.AnagramString" />
       <module name="interview-program" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.basic.*" />
+          <option name="PATTERN" value="com.rkjavahub.String.com.string.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,38 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="service.EmployeeManagement" />
-      <module name="EmpManagement" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.creational.singleton.Test" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.rkjavahub.creational.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCase1_Sorting_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.sorting.TestCase1_Sorting_List" />
+    <configuration name="FilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.all_methods.FilterDemo" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
+          <option name="PATTERN" value="com.rkjavahub.stream.all_methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +206,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCase2_Sorting_Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.sorting.TestCase2_Sorting_Map" />
+    <configuration name="Java8MethodCheatsheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.stream.cheatsheet.Java8MethodCheatsheet" />
       <module name="java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rkjavahub.stream.sorting.*" />
+          <option name="PATTERN" value="com.rkjavahub.stream.cheatsheet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.Main" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rkjavahub.PracticeClass" />
+      <module name="java8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.rkjavahub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ArmstrongNumberDemo" />
-        <item itemvalue="Application.EmployeeManagement" />
-        <item itemvalue="Application.TestCase1_Sorting_List" />
-        <item itemvalue="Application.TestCase2_Sorting_Map" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PracticeClass" />
+        <item itemvalue="Application.Java8MethodCheatsheet" />
+        <item itemvalue="Application.AnagramString" />
+        <item itemvalue="Application.FilterDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +306,71 @@
       <option name="project" value="LOCAL" />
       <updated>1766642572391</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Code refactoring">
+      <option name="closed" value="true" />
+      <created>1766644812668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766644812668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Code refactoring">
+      <option name="closed" value="true" />
+      <created>1767169890095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1767169890095</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code refactoring">
+      <option name="closed" value="true" />
+      <created>1767239820858</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767239820858</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code refactoring">
+      <option name="closed" value="true" />
+      <created>1767343110941</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767343110943</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added parameter type of String">
+      <option name="closed" value="true" />
+      <created>1767505395438</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767505395438</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactoring code">
+      <option name="closed" value="true" />
+      <created>1767550203959</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767550203959</updated>
+    </task>
+    <task id="LOCAL-00008" summary="java 8 Function demo added">
+      <option name="closed" value="true" />
+      <created>1767595468192</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767595468192</updated>
+    </task>
+    <task id="LOCAL-00009" summary="java 8 changes added">
+      <option name="closed" value="true" />
+      <created>1768372978052</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768372978052</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,7 +378,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Code package update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code package update" />
+    <MESSAGE value="Code refactoring" />
+    <MESSAGE value="Added parameter type of String" />
+    <MESSAGE value="Refactoring code" />
+    <MESSAGE value="java 8 Function demo added" />
+    <MESSAGE value="java 8 changes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="java 8 changes added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -340,6 +433,11 @@
           <line>10</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ocjp/src/main/java/com/rkjavahub/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/dsa/src/main/java/com/rkjavahub/dsa/array/problems/FindMissingNumberInArray.java</url>
           <line>7</line>
@@ -357,6 +455,10 @@
         <watch expression="array" language="JAVA" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
