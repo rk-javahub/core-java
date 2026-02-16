@@ -1,4 +1,4 @@
-package src.main.java;
+package com.rkjavahub;
 
 import java.io.IOException;
 import java.nio.file.Files;

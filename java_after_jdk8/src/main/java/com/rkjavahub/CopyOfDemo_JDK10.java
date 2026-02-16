@@ -1,4 +1,4 @@
-package src.main.java;
+package com.rkjavahub;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -17,6 +17,6 @@ public class CopyOfDemo_JDK10 {
 
         List<String> copyOfnames = List.copyOf(names);
 
-        copyOfnames.add("Sachin"); // It will throw UnsupportedOperationException because
+      //  copyOfnames.add("Sachin"); // It will throw UnsupportedOperationException because
     }
 }

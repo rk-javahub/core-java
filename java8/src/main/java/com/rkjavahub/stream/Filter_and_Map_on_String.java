@@ -25,10 +25,10 @@ public class Filter_and_Map_on_String {
         System.out.println("\nMapping list elements in upper case");
         mapStringtoUpperCase(ls);
 
-        System.out.println("\nCount number of elemnts in list");
+        System.out.println("\nCount number of elements in list");
         countNumberOfElements(ls);
 
-        System.out.println("\nCount number of elemnts in list with length greater than 5");
+        System.out.println("\nCount number of elements in list with length greater than 5");
         countNumberOfElementsGreaterThan5(ls);
 
         System.out.println("\nPrint names which start with 'R'");

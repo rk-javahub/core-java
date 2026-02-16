@@ -15,8 +15,8 @@
         <module>interview-program</module>
         <module>dsa</module>
         <module>solid</module>
-        <module>java_new_versions</module>
         <module>demo</module>
+        <module>java_after_jdk8</module>
     </modules>
 
     <properties>
