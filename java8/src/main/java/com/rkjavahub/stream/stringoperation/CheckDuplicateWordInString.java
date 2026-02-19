@@ -10,7 +10,5 @@ public class CheckDuplicateWordInString {
         String[] words = str.split(" ");
         System.out.println(Arrays.toString(words));
         Arrays.stream(words).collect(Collectors.groupingBy(Function.identity(), Collectors.counting())).entrySet().stream().filter(entry -> entry.getValue() > 1).forEach(System.out::println);
-
-
     }
 }
