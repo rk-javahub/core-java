@@ -16,8 +16,8 @@ public class OccuranceOfCharactersInString {
         System.out.println();
 */
 
-        Map<String, Long> collect1 = Arrays.stream(str.split("")).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
-        for (Map.Entry e : collect.entrySet()) {
+        Map<String, Long> collect1 = Arrays.stream(str.split("")).filter(ch -> !ch.equals(" ")).collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        for (Map.Entry e : collect1.entrySet()) {
             System.out.print(e.getKey() + " " + e.getValue());
             System.out.println();
         }
